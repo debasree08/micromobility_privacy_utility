@@ -10,7 +10,6 @@ paper/PoPETs_preprint_2026_3.pdf
 
 ```
 cd codebase
-
 ```
 
 ### Collect data using API
