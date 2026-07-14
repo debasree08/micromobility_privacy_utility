@@ -1,0 +1,5045 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "1",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "e383f5f4-4dcf-4572-93ea-34db5eb5fd18",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 12032,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.888705,
+                    49.895062
+                ]
+            }
+        },
+        {
+            "id": "2",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "be31d78e-9557-41d5-8aec-0254d02c96b5",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 21454,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.892699,
+                    49.898097
+                ]
+            }
+        },
+        {
+            "id": "3",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "e09fe8de-648a-48de-a8d9-286d24081364",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 13372,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.882502,
+                    49.895861
+                ]
+            }
+        },
+        {
+            "id": "4",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "4cfe5b1d-9120-42d2-a415-d2d737b8ddf5",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 18948,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.895,
+                    49.903
+                ]
+            }
+        },
+        {
+            "id": "5",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "1fa1a288-b1d4-49d6-b521-d39b088dcffb",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 20230,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8865,
+                    49.8925
+                ]
+            }
+        },
+        {
+            "id": "6",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "5f51f079-219d-499a-9041-0b8e265573de",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 11191,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.875215,
+                    49.889246
+                ]
+            }
+        },
+        {
+            "id": "7",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "faf9a103-f44f-457f-8430-c51ce5bb0b17",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 15342,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8865,
+                    49.8925
+                ]
+            }
+        },
+        {
+            "id": "8",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "b71192c2-339a-4115-b103-178caa433327",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 16601,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9005,
+                    49.8985
+                ]
+            }
+        },
+        {
+            "id": "9",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "1a769a30-af6c-4c6a-afd2-8c343210c865",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 11817,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.888013,
+                    49.894414
+                ]
+            }
+        },
+        {
+            "id": "10",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "e5e5b5f7-ccb1-4f47-8da2-1e9aedcbf079",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 20465,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.905527,
+                    49.901516
+                ]
+            }
+        },
+        {
+            "id": "11",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "5c66620d-81d5-4571-86d6-9453067a356e",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 15027,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.885509,
+                    49.895235
+                ]
+            }
+        },
+        {
+            "id": "12",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "790402cf-2784-4a7a-b415-0a30c6fd6934",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 17777,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.909573,
+                    49.903944
+                ]
+            }
+        },
+        {
+            "id": "13",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "2348e430-aa6a-4651-ae5e-c389d5f22fec",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 17282,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.894864,
+                    49.902762
+                ]
+            }
+        },
+        {
+            "id": "14",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "489e6130-fbe9-4659-9f72-52530c7a5386",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 10950,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8865,
+                    49.8925
+                ]
+            }
+        },
+        {
+            "id": "15",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "6a4f2c26-2b8c-4854-b7ea-eead027e7c64",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 13098,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.893502,
+                    49.900222
+                ]
+            }
+        },
+        {
+            "id": "16",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "b2b7d803-be93-4c7d-8863-1945a3f984b0",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 15414,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.879,
+                    49.8965
+                ]
+            }
+        },
+        {
+            "id": "17",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "00a4b9ff-0005-424b-8847-87747ec065d8",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 10009,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.894268,
+                    49.89792
+                ]
+            }
+        },
+        {
+            "id": "18",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "cd1c6c71-7aff-42a5-b853-17da33a3629d",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 19299,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8865,
+                    49.8925
+                ]
+            }
+        },
+        {
+            "id": "19",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "2ba26012-aefb-44a1-85d4-fb7dea1971d3",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 16318,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.895,
+                    49.903
+                ]
+            }
+        },
+        {
+            "id": "20",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "78e8e285-439a-41df-942c-6c96fc9eeb7c",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 19548,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.907056,
+                    49.902808
+                ]
+            }
+        },
+        {
+            "id": "21",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "bd961b0a-bee5-49ab-a78f-87d6b03ba6fe",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 11690,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.892651,
+                    49.898251
+                ]
+            }
+        },
+        {
+            "id": "22",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "0dee6ae4-643d-4a91-b1a5-2d673585d57a",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 15607,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.886808,
+                    49.892632
+                ]
+            }
+        },
+        {
+            "id": "23",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "1e982404-4c56-4d16-a8c8-85c60f9a2819",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 11655,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.895838,
+                    49.897391
+                ]
+            }
+        },
+        {
+            "id": "24",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "94cb67af-95b2-4edd-a23e-8b3785a782f7",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 13843,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.893006,
+                    49.898296
+                ]
+            }
+        },
+        {
+            "id": "25",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "7cd0e04a-2ca0-4450-bf72-21f4653a853a",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 18873,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.896136,
+                    49.897262
+                ]
+            }
+        },
+        {
+            "id": "26",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "9bb437ea-8b80-48ae-b81d-6cc80ad23d0d",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 18055,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.892748,
+                    49.898365
+                ]
+            }
+        },
+        {
+            "id": "27",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "aa3e95d2-647d-4ccb-8379-546b41c5a70b",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 18756,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.895,
+                    49.903
+                ]
+            }
+        },
+        {
+            "id": "28",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "74277311-9533-4bd5-8ce5-0e0006472f73",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 15616,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.89613,
+                    49.897919
+                ]
+            }
+        },
+        {
+            "id": "29",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "4745941c-4cea-4ca2-902d-fd7bf732cdf9",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 8121,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.879967,
+                    49.896893
+                ]
+            }
+        },
+        {
+            "id": "30",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "439c636c-588e-4826-933d-7b9741fe26ee",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 12369,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.893576,
+                    49.895397
+                ]
+            }
+        },
+        {
+            "id": "31",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "c9c7712d-8396-48a6-a35a-035176663716",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 12459,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.897978,
+                    49.899785
+                ]
+            }
+        },
+        {
+            "id": "32",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "571dc548-7cc1-4097-ac9e-09feadb9c37e",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 19275,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.883193,
+                    49.890004
+                ]
+            }
+        },
+        {
+            "id": "33",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "ba4766c1-21d9-4eaf-9c3b-af122b18f190",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 14034,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.880505,
+                    49.891708
+                ]
+            }
+        },
+        {
+            "id": "34",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "d0e58a06-29df-4389-9a39-96ddbaff015b",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 15239,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.879,
+                    49.8965
+                ]
+            }
+        },
+        {
+            "id": "35",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "069697b5-5e32-4b96-bcdd-b2390a0bf9a2",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 8046,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.88386,
+                    49.89781
+                ]
+            }
+        },
+        {
+            "id": "36",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "68576306-50af-448e-a479-15cb746876d1",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 16393,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9005,
+                    49.8985
+                ]
+            }
+        },
+        {
+            "id": "37",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "2ae241fd-0c55-4037-b82f-6c8488fc7b1e",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 18986,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8865,
+                    49.8925
+                ]
+            }
+        },
+        {
+            "id": "38",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "ed572abe-8219-407e-bce9-96ef7abba0d4",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 13223,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9005,
+                    49.8985
+                ]
+            }
+        },
+        {
+            "id": "39",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "fe4cd7dc-3bc7-49ff-ada3-6679871836c2",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 10688,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.888729,
+                    49.900453
+                ]
+            }
+        },
+        {
+            "id": "40",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "aa2bdfb8-6241-4905-afcc-02c40e6b2709",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 20158,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.879216,
+                    49.896356
+                ]
+            }
+        },
+        {
+            "id": "41",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "28047185-0549-407a-a597-387d9cb4cb4c",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 16367,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.887564,
+                    49.893814
+                ]
+            }
+        },
+        {
+            "id": "42",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "4d70a0d4-a86d-49d9-aaa8-eb2830e8c343",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 15268,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.879635,
+                    49.896123
+                ]
+            }
+        },
+        {
+            "id": "43",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "f02fc573-201e-4363-99f0-becf59e4224b",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 13601,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.884326,
+                    49.898664
+                ]
+            }
+        },
+        {
+            "id": "44",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "c14fef0c-4356-4779-b169-aa7f0cf72032",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 10885,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.879,
+                    49.8965
+                ]
+            }
+        },
+        {
+            "id": "45",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "5c77bd21-399c-4be4-adeb-5430c298a366",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 10378,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.90914,
+                    49.903794
+                ]
+            }
+        },
+        {
+            "id": "46",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "27cdc9d5-b344-47c9-9874-7987bc1171a9",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 20956,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9005,
+                    49.8985
+                ]
+            }
+        },
+        {
+            "id": "47",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "fa3b99aa-296a-4639-b701-285dba252c31",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 22107,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8865,
+                    49.8925
+                ]
+            }
+        },
+        {
+            "id": "48",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "91754611-816c-4a00-a392-65738473af02",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 18287,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8865,
+                    49.8925
+                ]
+            }
+        },
+        {
+            "id": "49",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "aa08ee9e-7530-4a3b-96a9-4188a66ed915",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 16194,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.911054,
+                    49.904832
+                ]
+            }
+        },
+        {
+            "id": "50",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "aebf47d9-c94b-4985-8fb4-069d0155afe1",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 18237,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.878493,
+                    49.889494
+                ]
+            }
+        },
+        {
+            "id": "51",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "c013c34b-c676-41b0-ae6b-ba631cb79db5",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 16210,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8865,
+                    49.8925
+                ]
+            }
+        },
+        {
+            "id": "52",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "28fffb36-75a6-4c0f-ace2-b972ad12b50a",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 12856,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.886039,
+                    49.892045
+                ]
+            }
+        },
+        {
+            "id": "53",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "fed4b1ef-d184-4cbd-ba23-dbf8dab4124b",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 11095,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.89512,
+                    49.902771
+                ]
+            }
+        },
+        {
+            "id": "54",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "c6dd89e9-1c3d-48c2-bbf1-06933bebdf84",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 11785,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.884366,
+                    49.895764
+                ]
+            }
+        },
+        {
+            "id": "55",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "6ed68b82-6a22-49b4-a4b6-80669bc477fb",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 9626,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.879586,
+                    49.888659
+                ]
+            }
+        },
+        {
+            "id": "56",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "0502795f-a7d7-4af9-ad58-3a4107d58497",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 14689,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.903918,
+                    49.90102
+                ]
+            }
+        },
+        {
+            "id": "57",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "ff06f7f8-bb75-4d08-986d-c29a164f171e",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 15015,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.885104,
+                    49.893335
+                ]
+            }
+        },
+        {
+            "id": "58",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "f847caac-adf5-4873-bc9a-ef410257d7bb",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 18092,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.89565,
+                    49.90021
+                ]
+            }
+        },
+        {
+            "id": "59",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "1f3b4d18-9ac5-4b82-9329-1c0e84756dc7",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 13881,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.878249,
+                    49.890919
+                ]
+            }
+        },
+        {
+            "id": "60",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "1bd75292-7315-4107-b3f3-db196f3676fb",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 16182,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.895,
+                    49.903
+                ]
+            }
+        },
+        {
+            "id": "61",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "c99f5759-6c6b-43e2-9453-a75c0c10e7d0",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 11293,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.901601,
+                    49.904722
+                ]
+            }
+        },
+        {
+            "id": "62",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "49f35d6c-a6fb-4e93-8650-dee815d4bc8e",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 10743,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.890496,
+                    49.897569
+                ]
+            }
+        },
+        {
+            "id": "63",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "e8b78bdc-3b5b-44bf-9a5e-959c4ce39762",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 15608,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.893988,
+                    49.898027
+                ]
+            }
+        },
+        {
+            "id": "64",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "468bc8c5-5fc0-4fa5-8924-2ec21e4955af",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 13758,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.888354,
+                    49.893301
+                ]
+            }
+        },
+        {
+            "id": "65",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "d84d44df-a0e4-4a46-81c8-94035a2b1f61",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 16254,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.883728,
+                    49.891008
+                ]
+            }
+        },
+        {
+            "id": "66",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "5c2935cf-38b0-47d0-b08f-428440dd26a9",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 11856,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.879,
+                    49.8965
+                ]
+            }
+        },
+        {
+            "id": "67",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "982e8f78-d19f-494a-b9dc-aaba123a60da",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 17430,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.892386,
+                    49.89977
+                ]
+            }
+        },
+        {
+            "id": "68",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "9883b6da-8228-4e06-859b-ee12f03d1dae",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 19008,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.886282,
+                    49.897177
+                ]
+            }
+        },
+        {
+            "id": "69",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "812e290e-1a96-40e5-8f1a-c46820e48bd9",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 18073,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.893287,
+                    49.897032
+                ]
+            }
+        },
+        {
+            "id": "70",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "71eaab92-2719-4760-8a56-c0f68c5a6e54",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 16196,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8865,
+                    49.8925
+                ]
+            }
+        },
+        {
+            "id": "71",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "893c57c2-d4cf-430b-abbc-6d4659f03b08",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 8336,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.882359,
+                    49.896936
+                ]
+            }
+        },
+        {
+            "id": "72",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "51a4fc5b-2bda-412e-b4eb-7674c5d9b8d2",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 15935,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.894006,
+                    49.897896
+                ]
+            }
+        },
+        {
+            "id": "73",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "c32f38eb-509d-4b63-9c0d-1d18b3b7bfee",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 16987,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.881501,
+                    49.895106
+                ]
+            }
+        },
+        {
+            "id": "74",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "2dd5525c-5f8e-4241-b622-939e71cb4a5a",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 21325,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9005,
+                    49.8985
+                ]
+            }
+        },
+        {
+            "id": "75",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "3f6ac89b-dfbb-462a-86ed-64443841ab09",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 13614,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.90094,
+                    49.899708
+                ]
+            }
+        },
+        {
+            "id": "76",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "cd8008e0-d6a3-4acf-a0e0-9f1833d6b47f",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 13710,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.899279,
+                    49.902206
+                ]
+            }
+        },
+        {
+            "id": "77",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "b076c180-07b2-47c1-aa13-e31d8b19d6c9",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 10263,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.889248,
+                    49.895895
+                ]
+            }
+        },
+        {
+            "id": "78",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "ca07cb59-aa15-4e7a-bee7-1ea5d3e688e9",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 20471,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.887681,
+                    49.895506
+                ]
+            }
+        },
+        {
+            "id": "79",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "3b23a552-4e2a-4a87-8c02-68549cb5b43d",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 19858,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9005,
+                    49.8985
+                ]
+            }
+        },
+        {
+            "id": "80",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "d5d9058e-5289-44ea-bea8-f297e50439ed",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 13114,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.879,
+                    49.8965
+                ]
+            }
+        },
+        {
+            "id": "81",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "76c76623-6665-464f-979b-715dbb2810f9",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 13516,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.887366,
+                    49.897305
+                ]
+            }
+        },
+        {
+            "id": "82",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "e6f3c532-cc42-4b0e-977b-60f7fe06dd19",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 21288,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.878062,
+                    49.888365
+                ]
+            }
+        },
+        {
+            "id": "83",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "57b69e6a-a8c8-4334-8b3b-4b50c86e11c6",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 10543,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.895242,
+                    49.897079
+                ]
+            }
+        },
+        {
+            "id": "84",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "07712232-9fe2-451e-b737-c3e79152ea57",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 15121,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.892002,
+                    49.899304
+                ]
+            }
+        },
+        {
+            "id": "85",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "070f16f3-5416-423c-b9c1-6ef8adf05098",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 13498,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.889768,
+                    49.899941
+                ]
+            }
+        },
+        {
+            "id": "86",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "9f6a577d-8387-437c-836f-7b97e04ed321",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 13895,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9005,
+                    49.8985
+                ]
+            }
+        },
+        {
+            "id": "87",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "18cbf659-09e6-462e-a1df-dceaeffe773d",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 19210,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.902371,
+                    49.902819
+                ]
+            }
+        },
+        {
+            "id": "88",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "392c2b07-baeb-48fd-8464-d0567608c26b",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 19389,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.886422,
+                    49.892924
+                ]
+            }
+        },
+        {
+            "id": "89",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "147891c1-75d1-4aee-8dd0-f4351620f3b6",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 15699,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9005,
+                    49.8985
+                ]
+            }
+        },
+        {
+            "id": "90",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "55cb4750-8c66-4c52-9615-8bf7222dbe7c",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 19966,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.879,
+                    49.8965
+                ]
+            }
+        },
+        {
+            "id": "91",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "5e96a7f5-94f4-4c47-a685-452559d77b65",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 19116,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.88986,
+                    49.895235
+                ]
+            }
+        },
+        {
+            "id": "92",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "1a65decb-32a8-4e25-8aba-800c2af108a0",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 20296,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.902922,
+                    49.903974
+                ]
+            }
+        },
+        {
+            "id": "93",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "e95e7200-461d-41c3-8912-cc8b6d172027",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 12599,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.89337,
+                    49.897837
+                ]
+            }
+        },
+        {
+            "id": "94",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "0c75af37-62e2-40f6-8ea1-d40590499685",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 10381,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.881638,
+                    49.890315
+                ]
+            }
+        },
+        {
+            "id": "95",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "46bba33e-8c69-480d-97c6-ac61ffa55a2f",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 15381,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.895887,
+                    49.896983
+                ]
+            }
+        },
+        {
+            "id": "96",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "992642f6-f5ad-4fd7-becf-628b52385388",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 16234,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.897156,
+                    49.901065
+                ]
+            }
+        },
+        {
+            "id": "97",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "d22e18d4-681d-4a3e-9ebe-00d44e234eb7",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 13997,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.879865,
+                    49.89335
+                ]
+            }
+        },
+        {
+            "id": "98",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "a991a0dc-2102-4f8d-9d56-caf4c2e678de",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 10794,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8865,
+                    49.8925
+                ]
+            }
+        },
+        {
+            "id": "99",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "38471def-2248-4488-937f-18e503b938bc",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 16150,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.898914,
+                    49.89782
+                ]
+            }
+        },
+        {
+            "id": "100",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "98487c28-d2ff-43e2-bdb8-c46f3852f881",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 10207,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.886796,
+                    49.892627
+                ]
+            }
+        },
+        {
+            "id": "101",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "62564ba1-ebe9-499e-b653-6b4c8ef350a5",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 14998,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.897107,
+                    49.898079
+                ]
+            }
+        },
+        {
+            "id": "102",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "39719609-e11b-4d81-a9f7-fe62df78aa81",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 12534,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.895026,
+                    49.895813
+                ]
+            }
+        },
+        {
+            "id": "103",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "f71adf2e-7ebe-4167-93cf-d6e79da29124",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 18976,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.910039,
+                    49.906923
+                ]
+            }
+        },
+        {
+            "id": "104",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "90c730eb-9931-452f-8919-4f8103408175",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 12365,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.880946,
+                    49.896474
+                ]
+            }
+        },
+        {
+            "id": "105",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "d20efe13-79b0-4a9a-a769-847f6d5fa69c",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 13598,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.895,
+                    49.903
+                ]
+            }
+        },
+        {
+            "id": "106",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "cd9efc30-3e14-42a0-94c3-58661b24533d",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 14986,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.895524,
+                    49.898103
+                ]
+            }
+        },
+        {
+            "id": "107",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "ffb73aaf-12ea-454d-88fc-da004ea74941",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 19931,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.895,
+                    49.903
+                ]
+            }
+        },
+        {
+            "id": "108",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "b052f22e-f756-4373-acfb-996c5fa3513c",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 16343,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.881653,
+                    49.890487
+                ]
+            }
+        },
+        {
+            "id": "109",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "18f3f119-7a37-40e1-a6bd-9b943ffddffb",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 13898,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.894936,
+                    49.896193
+                ]
+            }
+        },
+        {
+            "id": "110",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "9565e73f-ab9f-4ab4-9346-44818200c87f",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 13875,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.894415,
+                    49.897336
+                ]
+            }
+        },
+        {
+            "id": "111",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "84d51889-5c9b-42cf-90e1-f6e4ec423b43",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 13453,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.882482,
+                    49.897915
+                ]
+            }
+        },
+        {
+            "id": "112",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "8f3e44e0-a53d-44bd-892a-66c98eb02ed7",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 12681,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.895,
+                    49.903
+                ]
+            }
+        },
+        {
+            "id": "113",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "9483c333-fa98-4305-982a-13c0632d28d0",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 19827,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.895115,
+                    49.897756
+                ]
+            }
+        },
+        {
+            "id": "114",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "b7cc9920-486b-433f-ad0c-dba934ec08dc",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 16269,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.875326,
+                    49.886292
+                ]
+            }
+        },
+        {
+            "id": "115",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "1809a349-f6d6-442b-9d7b-04ebf733ae62",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 11126,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.891997,
+                    49.897558
+                ]
+            }
+        },
+        {
+            "id": "116",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "af06db55-780d-42a1-9a30-368ce894c464",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 16406,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.890966,
+                    49.89917
+                ]
+            }
+        },
+        {
+            "id": "117",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "e1067937-3ab8-45f9-9a19-53a1a20ee8ab",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 12268,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8865,
+                    49.8925
+                ]
+            }
+        },
+        {
+            "id": "118",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "4bb2033a-2c4c-49ea-9971-9e0a6f7ef592",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 18927,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.889993,
+                    49.900966
+                ]
+            }
+        },
+        {
+            "id": "119",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "e11c866d-9646-4bad-9f35-6e571c9c6c2a",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 18307,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.890388,
+                    49.90015
+                ]
+            }
+        },
+        {
+            "id": "120",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "3030df62-3a70-4a15-947e-4e104ef0b327",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 12094,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.892552,
+                    49.89961
+                ]
+            }
+        },
+        {
+            "id": "121",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "9131b957-d7fd-455f-b0c0-1cfbb63a4ca5",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 18088,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.888453,
+                    49.89479
+                ]
+            }
+        },
+        {
+            "id": "122",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "e66d98d4-3fb4-439c-8715-f73c6ce06b7b",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 14984,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8939,
+                    49.896837
+                ]
+            }
+        },
+        {
+            "id": "123",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "08a44b14-3563-4f37-b888-617c8bd8e7f5",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 13430,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.888312,
+                    49.894078
+                ]
+            }
+        },
+        {
+            "id": "124",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "a5a78f27-e6f4-40e7-ab4e-db210ad5cc4b",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 21486,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.89228,
+                    49.89777
+                ]
+            }
+        },
+        {
+            "id": "125",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "707b373a-9eaf-4aa3-8261-ade8cd15089f",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 18976,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8865,
+                    49.8925
+                ]
+            }
+        },
+        {
+            "id": "126",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "112a619a-13d9-4edc-8f44-bc84f374ef60",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 14502,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8865,
+                    49.8925
+                ]
+            }
+        },
+        {
+            "id": "127",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "2cb452f3-1b6b-4263-a661-f5b542a557db",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 12529,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.888249,
+                    49.898408
+                ]
+            }
+        },
+        {
+            "id": "128",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "b410fc30-45cb-46f1-a282-9ebb1310f34f",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 19618,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.887263,
+                    49.893423
+                ]
+            }
+        },
+        {
+            "id": "129",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "b8f0bae7-98a0-4ba9-a15e-5cd43d591bf6",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 15152,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.895,
+                    49.903
+                ]
+            }
+        },
+        {
+            "id": "130",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "a01e86bd-d538-4d19-8d69-0e7b4ad4ff63",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 16577,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.900247,
+                    49.899701
+                ]
+            }
+        },
+        {
+            "id": "131",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "99d3dc05-7043-4331-8913-aec5c8bdfe9e",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 8585,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.891871,
+                    49.896687
+                ]
+            }
+        },
+        {
+            "id": "132",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "45212d00-a314-4aa0-a5cb-da55454d9112",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 21668,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9005,
+                    49.8985
+                ]
+            }
+        },
+        {
+            "id": "133",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "19a6fa1f-a1c5-45c2-b7be-d153bf704cd1",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 19071,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9005,
+                    49.8985
+                ]
+            }
+        },
+        {
+            "id": "134",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "d6c0684d-8712-4a10-9c13-2622b8530254",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 15013,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.887181,
+                    49.894429
+                ]
+            }
+        },
+        {
+            "id": "135",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "2928e5f3-a38c-49f1-bc3f-baa2758fe343",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 13590,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.881424,
+                    49.895494
+                ]
+            }
+        },
+        {
+            "id": "136",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "9e5b8580-5bd1-46a1-9c69-794b1a857970",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 16360,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.885241,
+                    49.894231
+                ]
+            }
+        },
+        {
+            "id": "137",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "43eda38d-4ea6-4181-aede-9628078cdb26",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 13316,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.893409,
+                    49.902162
+                ]
+            }
+        },
+        {
+            "id": "138",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "10913f35-b4b8-4805-b43b-1af7e0f0faa1",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 13229,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.903185,
+                    49.902998
+                ]
+            }
+        },
+        {
+            "id": "139",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "b8119c3d-ab9d-4482-969a-cc4a8f8cfbf6",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 12780,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.893941,
+                    49.898445
+                ]
+            }
+        },
+        {
+            "id": "140",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "10c9014d-6927-432b-81f6-9243c5da848f",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 12286,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.889102,
+                    49.898174
+                ]
+            }
+        },
+        {
+            "id": "141",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "df3475d8-8d6e-4d3b-8b61-dd77ac3b9b7a",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 9972,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.898613,
+                    49.900728
+                ]
+            }
+        },
+        {
+            "id": "142",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "8ba6dfb2-4ef0-475a-9d93-af68a85ba27b",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 19497,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.89025,
+                    49.900125
+                ]
+            }
+        },
+        {
+            "id": "143",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "44a98417-4992-4764-8923-8252ebd565af",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 15437,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8865,
+                    49.8925
+                ]
+            }
+        },
+        {
+            "id": "144",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "d8fe1653-2f64-47e1-84f4-6a2ab6d8a416",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 12653,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.893042,
+                    49.897802
+                ]
+            }
+        },
+        {
+            "id": "145",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "81356f2e-ac42-4d7f-836f-b37e25d46bb6",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 11864,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.890041,
+                    49.900443
+                ]
+            }
+        },
+        {
+            "id": "146",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "3f2f0c59-5d0f-454d-9877-c4cded92ce42",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 18129,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.901236,
+                    49.904373
+                ]
+            }
+        },
+        {
+            "id": "147",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "c8f1264b-1ef2-485a-bcb9-9884fd199f6b",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 13354,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.892566,
+                    49.900754
+                ]
+            }
+        },
+        {
+            "id": "148",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "b47b9e6b-8209-4908-8fb4-a76394fe6f40",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 20303,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.908609,
+                    49.906422
+                ]
+            }
+        },
+        {
+            "id": "149",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "1cd8d4e5-33f0-487f-a4e2-15ebb5c51f5a",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 21129,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.887375,
+                    49.894575
+                ]
+            }
+        },
+        {
+            "id": "150",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "f735a3b0-e31a-48a4-b644-832c0f3eba6d",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 17112,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.899921,
+                    49.899448
+                ]
+            }
+        },
+        {
+            "id": "151",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "e1e14db7-a526-49b3-a26c-975f5277962f",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 13687,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.895,
+                    49.903
+                ]
+            }
+        },
+        {
+            "id": "152",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "5e824e96-acdb-4eb7-b431-184cd9cd8674",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 19718,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.894941,
+                    49.902502
+                ]
+            }
+        },
+        {
+            "id": "153",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "aa3173c2-1797-455d-b6e0-19b01b1229d6",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 14315,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.877492,
+                    49.890969
+                ]
+            }
+        },
+        {
+            "id": "154",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "79e65511-7c8e-4966-a0c5-e82cafac066d",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 17735,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.880204,
+                    49.895447
+                ]
+            }
+        },
+        {
+            "id": "155",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "91b238d9-3f6f-417c-ba4d-a98b10bc377e",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 17680,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.903657,
+                    49.90129
+                ]
+            }
+        },
+        {
+            "id": "156",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "0d96f6bb-99b2-4a44-94e0-19e7d2aaa968",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 9037,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9005,
+                    49.8985
+                ]
+            }
+        },
+        {
+            "id": "157",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "d980abba-cfa7-4524-9d42-e334a90572aa",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 13643,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.885455,
+                    49.895167
+                ]
+            }
+        },
+        {
+            "id": "158",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "efe08d85-e346-4afa-b548-4322414c9fc3",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 17674,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.908082,
+                    49.906335
+                ]
+            }
+        },
+        {
+            "id": "159",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "4fda00ec-3221-4467-9c12-1aef16b1d7cf",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 16083,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.891395,
+                    49.897653
+                ]
+            }
+        },
+        {
+            "id": "160",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "f50aa0bc-6c61-45de-88bf-9fbe41c1dabe",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 16184,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9005,
+                    49.8985
+                ]
+            }
+        },
+        {
+            "id": "161",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "bd88e760-ae04-4e26-9639-8019584b620a",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 17962,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.886279,
+                    49.899333
+                ]
+            }
+        },
+        {
+            "id": "162",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "b558c07b-7175-469e-92e7-b4003e902645",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 20637,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.906571,
+                    49.90594
+                ]
+            }
+        },
+        {
+            "id": "163",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "01dbc1c9-2c13-45a9-b4bf-290e62c5f4f5",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 13792,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.879,
+                    49.8965
+                ]
+            }
+        },
+        {
+            "id": "164",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "8dca7851-97f0-4ee8-8526-7b78a0241302",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 17978,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8887,
+                    49.895217
+                ]
+            }
+        },
+        {
+            "id": "165",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "57203c2c-3049-4fed-a3c5-19f082b7aa03",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 19468,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.884065,
+                    49.898558
+                ]
+            }
+        },
+        {
+            "id": "166",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "e4e7ff1d-743f-4301-9ca8-23cb6adf6d55",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 17503,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.880387,
+                    49.890292
+                ]
+            }
+        },
+        {
+            "id": "167",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "5c1d6039-3d6c-44cb-883e-b125525ddd77",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 20166,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.893172,
+                    49.895359
+                ]
+            }
+        },
+        {
+            "id": "168",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "c06bff04-203d-4269-ae5c-48cc100afc90",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 17053,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.893797,
+                    49.902511
+                ]
+            }
+        },
+        {
+            "id": "169",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "b30636b3-c93a-4345-a11d-033c231c3277",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 17205,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.89112,
+                    49.897927
+                ]
+            }
+        },
+        {
+            "id": "170",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "0645f56d-2e14-4ac5-8d96-43db568c3ac6",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 23751,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.901583,
+                    49.897129
+                ]
+            }
+        },
+        {
+            "id": "171",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "e8cba387-3c05-423d-87a5-0729e2bf6094",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 18522,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.878346,
+                    49.895074
+                ]
+            }
+        },
+        {
+            "id": "172",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "52d9ecb1-610d-4d21-b1dd-2d12836c5834",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 16634,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.897291,
+                    49.898601
+                ]
+            }
+        },
+        {
+            "id": "173",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "5cb91d5a-406f-442a-bc43-d6fd1d9fd71e",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 15701,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.902122,
+                    49.904169
+                ]
+            }
+        },
+        {
+            "id": "174",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "39f3e87d-4db8-4daf-a05d-2c830ae587d0",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 18470,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.873778,
+                    49.885442
+                ]
+            }
+        },
+        {
+            "id": "175",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "b89b61be-856c-4459-9a25-b31098091c2c",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 12430,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9005,
+                    49.8985
+                ]
+            }
+        },
+        {
+            "id": "176",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "76ff3470-f046-4ba6-9923-eddf801f89ef",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 8603,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.894931,
+                    49.897982
+                ]
+            }
+        },
+        {
+            "id": "177",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "dc676287-e80a-4a38-b67a-a798fbb81711",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 12076,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.918,
+                    49.909
+                ]
+            }
+        },
+        {
+            "id": "178",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "0faa2241-e56f-421c-b85f-fe284e169ada",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 10894,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.88647,
+                    49.892867
+                ]
+            }
+        },
+        {
+            "id": "179",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "fd58fb1d-55fa-431a-add2-14d4c662ca5f",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 16893,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.883106,
+                    49.896212
+                ]
+            }
+        },
+        {
+            "id": "180",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "f883d8a5-1455-4128-b801-2c51d14c97fc",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 15192,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.893505,
+                    49.895066
+                ]
+            }
+        },
+        {
+            "id": "181",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "29c6b776-ed15-400a-b509-0e7addecc702",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 23973,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.887052,
+                    49.897861
+                ]
+            }
+        },
+        {
+            "id": "182",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "5b10547d-b8af-4be1-a759-c54863e83b62",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 11975,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.895,
+                    49.903
+                ]
+            }
+        },
+        {
+            "id": "183",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "79f0befc-5ee6-44d5-9bef-abc9cc31a39a",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 10075,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.89817,
+                    49.897501
+                ]
+            }
+        },
+        {
+            "id": "184",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "ccf35cee-8bc8-46f5-bd4b-6ea2f01b76f2",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 13068,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8865,
+                    49.8925
+                ]
+            }
+        },
+        {
+            "id": "185",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "be270e3f-2615-4d7c-9535-32a8d4314672",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 17247,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.873,
+                    49.885
+                ]
+            }
+        },
+        {
+            "id": "186",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "c5267fda-0f38-455e-875b-e67a5208f1c1",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 13683,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.885299,
+                    49.893749
+                ]
+            }
+        },
+        {
+            "id": "187",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "a4b65497-6ba1-4867-bcd4-9bf61ce64aab",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 14674,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.898866,
+                    49.897965
+                ]
+            }
+        },
+        {
+            "id": "188",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "c22e54a5-3273-43ae-8997-4001fb75cfea",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 13613,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.88106,
+                    49.891182
+                ]
+            }
+        },
+        {
+            "id": "189",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "f240ac71-c1be-410c-b4d3-f0c600c1ee47",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 16599,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.886509,
+                    49.89454
+                ]
+            }
+        },
+        {
+            "id": "190",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "0de87f8d-260a-4348-aabc-0aa6f7b373d5",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 16913,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.88954,
+                    49.896256
+                ]
+            }
+        },
+        {
+            "id": "191",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "74538616-23b0-43d1-ad41-39719bc24344",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 16195,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8865,
+                    49.8925
+                ]
+            }
+        },
+        {
+            "id": "192",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "3da3878d-41c0-40c1-91df-d7b5b6c87345",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 15751,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.878683,
+                    49.888018
+                ]
+            }
+        },
+        {
+            "id": "193",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "09839deb-b9f7-4c1f-9525-e924dd1167c7",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 17741,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.896432,
+                    49.901828
+                ]
+            }
+        },
+        {
+            "id": "194",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "32aca4e5-00f8-4fbd-b2e3-ede25409991f",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 13084,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.895,
+                    49.903
+                ]
+            }
+        },
+        {
+            "id": "195",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "863be9ae-bcbb-4166-a893-01ad2ab32159",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 13341,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.88655,
+                    49.899277
+                ]
+            }
+        },
+        {
+            "id": "196",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "252ccded-030b-4f0e-8499-3e023f2588f1",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 15405,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.898736,
+                    49.901709
+                ]
+            }
+        },
+        {
+            "id": "197",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "aaf5f7c2-0ecb-43b2-98c5-910c08372612",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 14811,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9005,
+                    49.8985
+                ]
+            }
+        },
+        {
+            "id": "198",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "4cbafb23-0f67-41ed-b125-b15a68770d3a",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 12591,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.879878,
+                    49.896799
+                ]
+            }
+        },
+        {
+            "id": "199",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "c14dc276-81f6-41b1-8f7b-685d766605bf",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 14805,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8865,
+                    49.8925
+                ]
+            }
+        },
+        {
+            "id": "200",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "7758dddc-f98d-473f-ac89-5f0258255d1d",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 14912,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.878277,
+                    49.894603
+                ]
+            }
+        },
+        {
+            "id": "201",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "76c5919b-10b1-4897-b2f8-bcd9a44693bc",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 21976,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.900669,
+                    49.904479
+                ]
+            }
+        },
+        {
+            "id": "202",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "0fc2f478-2103-45bc-aea2-9d48f9500e09",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 18232,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.893992,
+                    49.897895
+                ]
+            }
+        },
+        {
+            "id": "203",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "5dc7f25b-e26c-4a28-88e6-07fa8a46a227",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 16590,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.882274,
+                    49.896805
+                ]
+            }
+        },
+        {
+            "id": "204",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "2da7c592-decf-44f3-aa99-ddeac4c4194d",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 8898,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.889446,
+                    49.897873
+                ]
+            }
+        },
+        {
+            "id": "205",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "b99e79c6-5545-4a03-a1ec-20271467da35",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 18290,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.888203,
+                    49.897132
+                ]
+            }
+        },
+        {
+            "id": "206",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "dec80177-87f1-491b-a889-9a47a12c9258",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 13081,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.893427,
+                    49.901056
+                ]
+            }
+        },
+        {
+            "id": "207",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "94e15192-55c2-459d-8365-a4770feb2c00",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 17656,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.900528,
+                    49.899768
+                ]
+            }
+        },
+        {
+            "id": "208",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "6c96894e-17d1-4569-9e23-8873ae1eb79b",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 15257,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.895532,
+                    49.896371
+                ]
+            }
+        },
+        {
+            "id": "209",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "212a9727-db21-4528-bf31-fb580edb3a05",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 23225,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.879127,
+                    49.888477
+                ]
+            }
+        },
+        {
+            "id": "210",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "07c9118f-ce41-44fd-a061-7c4265788976",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 16110,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.892598,
+                    49.899522
+                ]
+            }
+        },
+        {
+            "id": "211",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "4600df61-2eba-4587-83f5-5e34c0ae0d1c",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 13852,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.88993,
+                    49.893311
+                ]
+            }
+        },
+        {
+            "id": "212",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "ce582e5e-c63e-454b-9f2b-affd669cb95f",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 15873,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.898794,
+                    49.901707
+                ]
+            }
+        },
+        {
+            "id": "213",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "07ed9bd5-4923-4d1f-a821-b57b617d3032",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 12937,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.895037,
+                    49.896159
+                ]
+            }
+        },
+        {
+            "id": "214",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "2b6aa015-267c-44ee-9e27-5238a0dede8e",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 19280,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.892988,
+                    49.895564
+                ]
+            }
+        },
+        {
+            "id": "215",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "80f8e18f-9f29-43d5-a59d-cee1389f6aa7",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 21727,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.902281,
+                    49.901393
+                ]
+            }
+        },
+        {
+            "id": "216",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "75b08da8-03f1-4a51-83b2-359c7cd89a9e",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 18136,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8865,
+                    49.8925
+                ]
+            }
+        },
+        {
+            "id": "217",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "f6820f74-0ba8-487b-80ce-b0cbdf438a68",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 19567,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9005,
+                    49.8985
+                ]
+            }
+        },
+        {
+            "id": "218",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "3ec3f54f-b652-4f3d-b434-cf448b3d76b3",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 8122,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.911476,
+                    49.907298
+                ]
+            }
+        },
+        {
+            "id": "219",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "03034943-5fd9-4522-878e-c09d934eff48",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 16043,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.875486,
+                    49.889362
+                ]
+            }
+        },
+        {
+            "id": "220",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "40b54eac-a83d-44d7-9fb7-f7dfcad55f66",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 20387,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.894144,
+                    49.89563
+                ]
+            }
+        },
+        {
+            "id": "221",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "7f2a37f0-aca8-4ff1-a9d9-2c5cbab19294",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 6998,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8865,
+                    49.8925
+                ]
+            }
+        },
+        {
+            "id": "222",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "36d865d7-7c6c-4939-952c-0bcc61858f09",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 16795,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.900636,
+                    49.898747
+                ]
+            }
+        },
+        {
+            "id": "223",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "868b467e-1b20-4fe1-a525-fd67f9039673",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 14198,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.880095,
+                    49.889527
+                ]
+            }
+        },
+        {
+            "id": "224",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "7cdb880f-78b2-4db0-a673-0a1507639ba9",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 16846,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.890004,
+                    49.895625
+                ]
+            }
+        },
+        {
+            "id": "225",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "4118bfe4-0cd5-4fb3-a51f-70b8eb7b067a",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 16548,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.895,
+                    49.903
+                ]
+            }
+        },
+        {
+            "id": "226",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "d9a437cf-2117-49eb-9183-95f30d662a23",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 13493,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.880213,
+                    49.896889
+                ]
+            }
+        },
+        {
+            "id": "227",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "65d8af70-1a2d-4fbf-97b2-7b3f2743cd85",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 16522,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.894213,
+                    49.89654
+                ]
+            }
+        },
+        {
+            "id": "228",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "fcceece2-d68c-41e6-aff4-1e80f2d3c282",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 19061,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.903228,
+                    49.900137
+                ]
+            }
+        },
+        {
+            "id": "229",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "a04c7274-b3c2-428e-abf9-96e7d3310065",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 11994,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.887282,
+                    49.892919
+                ]
+            }
+        },
+        {
+            "id": "230",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "f6d10e7e-06f6-4502-b3b3-341989209e7a",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 15308,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.891909,
+                    49.896465
+                ]
+            }
+        },
+        {
+            "id": "231",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "4fcaf9e6-93e3-4390-a1f8-17f83bc1f3e8",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 13230,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.892495,
+                    49.900372
+                ]
+            }
+        },
+        {
+            "id": "232",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "c29fc6ed-a721-498e-b76f-43170d576e37",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 16679,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.896979,
+                    49.900638
+                ]
+            }
+        },
+        {
+            "id": "233",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "1ba68486-0093-4b98-adc5-c070850a3287",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 18719,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.891365,
+                    49.895039
+                ]
+            }
+        },
+        {
+            "id": "234",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "2ebd16cb-e4a2-46da-9c33-87df1ea546ff",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 13179,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.875881,
+                    49.888644
+                ]
+            }
+        },
+        {
+            "id": "235",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "0cd97057-02b6-426a-91f6-6233996ab1ae",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 17705,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.891893,
+                    49.894811
+                ]
+            }
+        },
+        {
+            "id": "236",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "71a5a2d8-2d99-42e9-a153-fb06db4983d3",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 15004,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.895,
+                    49.903
+                ]
+            }
+        },
+        {
+            "id": "237",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "8145e529-0a9b-4afd-a733-5164adedc153",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 14690,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.894255,
+                    49.900092
+                ]
+            }
+        },
+        {
+            "id": "238",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "6128ca80-0bb2-43cc-b0b2-59a0cea7e811",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 14324,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.886936,
+                    49.899724
+                ]
+            }
+        },
+        {
+            "id": "239",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "e4e74277-466c-40bd-bba8-0ec65576786a",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 14171,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.876359,
+                    49.888459
+                ]
+            }
+        },
+        {
+            "id": "240",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "ef613351-cb8a-484e-b42c-b082baa9e7bd",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 20337,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.905309,
+                    49.901723
+                ]
+            }
+        },
+        {
+            "id": "241",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "b5adaa3d-b0a6-4831-ab6e-bc82d305a9c0",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 15805,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.883323,
+                    49.890715
+                ]
+            }
+        },
+        {
+            "id": "242",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "714c0932-134b-434d-8df2-2ac90cacb869",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 19011,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.913964,
+                    49.906975
+                ]
+            }
+        },
+        {
+            "id": "243",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "0565bb06-36a2-46e2-8239-00f8b697c9fa",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 16990,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.891274,
+                    49.899296
+                ]
+            }
+        },
+        {
+            "id": "244",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "35d2eee5-1820-460a-9329-f8c4018924f1",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 5274,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.889644,
+                    49.893847
+                ]
+            }
+        },
+        {
+            "id": "245",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "e7400f7c-2729-470e-aba6-30e698ef8c36",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 19511,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9005,
+                    49.8985
+                ]
+            }
+        },
+        {
+            "id": "246",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "c8ae9e42-89ef-4784-94eb-b84488e20178",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 12813,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.887246,
+                    49.895434
+                ]
+            }
+        },
+        {
+            "id": "247",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "dce95423-6b54-4da1-b9f3-4c6e1a036b4f",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 18708,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.892475,
+                    49.901513
+                ]
+            }
+        },
+        {
+            "id": "248",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "5960dfbd-a67b-4de6-a72f-234f2bc1fc74",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 13793,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.895,
+                    49.903
+                ]
+            }
+        },
+        {
+            "id": "249",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "65ed32dd-b19f-4120-ac42-e78038ebd7a0",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 16200,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.888926,
+                    49.895496
+                ]
+            }
+        },
+        {
+            "id": "250",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "fb6f6689-d72f-4077-9e64-31eccbfc3c21",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 21176,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.887209,
+                    49.89804
+                ]
+            }
+        },
+        {
+            "id": "251",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "eebb81a9-5ee6-466c-8978-c4b0889725b6",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 20111,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.876646,
+                    49.887058
+                ]
+            }
+        },
+        {
+            "id": "252",
+            "type": "Feature",
+            "properties": {
+                "bike_id": "1c3c8c6c-7aad-4ebc-b829-67091bf86f92",
+                "is_reserved": false,
+                "is_disabled": false,
+                "current_range_meters": 19341,
+                "vehicle_type_id": "2",
+                "last_reported": 1748817600,
+                "vehicle_type": "scooter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.880315,
+                    49.889064
+                ]
+            }
+        }
+    ]
+}
