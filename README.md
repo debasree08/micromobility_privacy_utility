@@ -1,7 +1,7 @@
 # Precision Leads Recalling You! Improved Location Privacy for Shared Mobility Services
 
 <p align="center">
-  <img src="./intro_teaser.png" alt="A typical data sharing pipeline" width="600">
+  <img src="./intro_teaser.png" alt="A typical data sharing pipeline" width="250">
   <br>
   <em>Figure 1: A typical data sharing pipeline.</em>
 </p>
