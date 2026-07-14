@@ -12,6 +12,9 @@ python preprocessor.py
 ```
 
 # References
+
+If you use the repository or refer the paper in one of your projects, please cite the paper below:
+
 ```
 @article{das2026precision,
   title={Precision Leads Recalling You! Improved Location Privacy for Shared Mobility Services},
