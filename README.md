@@ -14,6 +14,7 @@ cd codebase
 
 ### Collect data using API
 ```
+python data_collector.py
 ```
 ### Preprocess JSON files to CSV
 ```
