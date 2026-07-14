@@ -6,7 +6,7 @@
     "origin_lat": 49.909397,
     "origin_lon": 10.917889,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 1,
@@ -15,7 +15,7 @@
     "origin_lat": 49.903464,
     "origin_lon": 10.908833,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 2,
@@ -24,7 +24,7 @@
     "origin_lat": 49.8965,
     "origin_lon": 10.879,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 3,
@@ -33,7 +33,7 @@
     "origin_lat": 49.892124,
     "origin_lon": 10.886934,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 4,
@@ -42,7 +42,7 @@
     "origin_lat": 49.898148,
     "origin_lon": 10.884803,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 5,
@@ -51,7 +51,7 @@
     "origin_lat": 49.88362,
     "origin_lon": 10.87255,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 6,
@@ -60,7 +60,7 @@
     "origin_lat": 49.903,
     "origin_lon": 10.895,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 7,
@@ -69,7 +69,7 @@
     "origin_lat": 49.904173,
     "origin_lon": 10.894819,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 8,
@@ -78,7 +78,7 @@
     "origin_lat": 49.892554,
     "origin_lon": 10.88536,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 9,
@@ -87,7 +87,7 @@
     "origin_lat": 49.902564,
     "origin_lon": 10.895089,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 10,
@@ -96,7 +96,7 @@
     "origin_lat": 49.903,
     "origin_lon": 10.895,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 11,
@@ -105,7 +105,7 @@
     "origin_lat": 49.896019,
     "origin_lon": 10.878767,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 12,
@@ -114,7 +114,7 @@
     "origin_lat": 49.886957,
     "origin_lon": 10.877178,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 13,
@@ -123,7 +123,7 @@
     "origin_lat": 49.896988,
     "origin_lon": 10.883698,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 14,
@@ -132,7 +132,7 @@
     "origin_lat": 49.892667,
     "origin_lon": 10.884932,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 15,
@@ -141,7 +141,7 @@
     "origin_lat": 49.899091,
     "origin_lon": 10.900637,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 16,
@@ -150,7 +150,7 @@
     "origin_lat": 49.908907,
     "origin_lon": 10.917759,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 17,
@@ -159,7 +159,7 @@
     "origin_lat": 49.891902,
     "origin_lon": 10.876628,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 18,
@@ -168,7 +168,7 @@
     "origin_lat": 49.885275,
     "origin_lon": 10.87159,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 19,
@@ -177,7 +177,7 @@
     "origin_lat": 49.902767,
     "origin_lon": 10.907611,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 20,
@@ -186,7 +186,7 @@
     "origin_lat": 49.885825,
     "origin_lon": 10.873745,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 21,
@@ -195,7 +195,7 @@
     "origin_lat": 49.895829,
     "origin_lon": 10.878753,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 22,
@@ -204,7 +204,7 @@
     "origin_lat": 49.894276,
     "origin_lon": 10.890691,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 23,
@@ -213,7 +213,7 @@
     "origin_lat": 49.908617,
     "origin_lon": 10.917851,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 24,
@@ -222,7 +222,7 @@
     "origin_lat": 49.897615,
     "origin_lon": 10.899543,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 25,
@@ -231,7 +231,7 @@
     "origin_lat": 49.89715,
     "origin_lon": 10.880085,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 26,
@@ -240,7 +240,7 @@
     "origin_lat": 49.896789,
     "origin_lon": 10.88023,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 27,
@@ -249,7 +249,7 @@
     "origin_lat": 49.892471,
     "origin_lon": 10.887752,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 28,
@@ -258,7 +258,7 @@
     "origin_lat": 49.89056,
     "origin_lon": 10.88314,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 29,
@@ -267,7 +267,7 @@
     "origin_lat": 49.896573,
     "origin_lon": 10.87741,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 30,
@@ -276,7 +276,7 @@
     "origin_lat": 49.9001,
     "origin_lon": 10.892769,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 31,
@@ -285,7 +285,7 @@
     "origin_lat": 49.908417,
     "origin_lon": 10.912607,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 32,
@@ -294,7 +294,7 @@
     "origin_lat": 49.908353,
     "origin_lon": 10.917599,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 33,
@@ -303,7 +303,7 @@
     "origin_lat": 49.885732,
     "origin_lon": 10.873263,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 34,
@@ -312,7 +312,7 @@
     "origin_lat": 49.908576,
     "origin_lon": 10.918411,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 35,
@@ -321,7 +321,7 @@
     "origin_lat": 49.8965,
     "origin_lon": 10.879,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 36,
@@ -330,7 +330,7 @@
     "origin_lat": 49.895273,
     "origin_lon": 10.892446,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 37,
@@ -339,7 +339,7 @@
     "origin_lat": 49.908686,
     "origin_lon": 10.916829,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 38,
@@ -348,7 +348,7 @@
     "origin_lat": 49.898737,
     "origin_lon": 10.900709,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 39,
@@ -357,7 +357,7 @@
     "origin_lat": 49.896504,
     "origin_lon": 10.878812,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 40,
@@ -366,7 +366,7 @@
     "origin_lat": 49.892226,
     "origin_lon": 10.885858,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 41,
@@ -375,7 +375,7 @@
     "origin_lat": 49.899716,
     "origin_lon": 10.887239,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 42,
@@ -384,7 +384,7 @@
     "origin_lat": 49.900182,
     "origin_lon": 10.886823,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 43,
@@ -393,7 +393,7 @@
     "origin_lat": 49.8965,
     "origin_lon": 10.879,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 44,
@@ -402,7 +402,7 @@
     "origin_lat": 49.909048,
     "origin_lon": 10.919971,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 45,
@@ -411,7 +411,7 @@
     "origin_lat": 49.898346,
     "origin_lon": 10.900741,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 46,
@@ -420,7 +420,7 @@
     "origin_lat": 49.884972,
     "origin_lon": 10.872065,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 47,
@@ -429,7 +429,7 @@
     "origin_lat": 49.904877,
     "origin_lon": 10.909381,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 48,
@@ -438,7 +438,7 @@
     "origin_lat": 49.885633,
     "origin_lon": 10.872272,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 49,
@@ -447,7 +447,7 @@
     "origin_lat": 49.892969,
     "origin_lon": 10.888252,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 50,
@@ -456,16 +456,16 @@
     "origin_lat": 49.902208,
     "origin_lon": 10.894547,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 51,
     "bike_id": "fdee3558-5253-4f4a-b958-17c42182a262",
-    "crm": 14382,
+    "crm": 14294,
     "origin_lat": 49.894521,
     "origin_lon": 10.891999,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "FINISHED"
   },
   {
     "track_id": 52,
@@ -474,7 +474,7 @@
     "origin_lat": 49.899142,
     "origin_lon": 10.892225,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 53,
@@ -483,7 +483,7 @@
     "origin_lat": 49.89765,
     "origin_lon": 10.900879,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 54,
@@ -492,7 +492,7 @@
     "origin_lat": 49.902264,
     "origin_lon": 10.89624,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 55,
@@ -501,7 +501,7 @@
     "origin_lat": 49.894721,
     "origin_lon": 10.885166,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 56,
@@ -510,7 +510,7 @@
     "origin_lat": 49.896682,
     "origin_lon": 10.880046,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 57,
@@ -519,7 +519,7 @@
     "origin_lat": 49.903822,
     "origin_lon": 10.909509,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 58,
@@ -528,7 +528,7 @@
     "origin_lat": 49.88401,
     "origin_lon": 10.871944,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 59,
@@ -537,7 +537,7 @@
     "origin_lat": 49.906657,
     "origin_lon": 10.913123,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 60,
@@ -546,7 +546,7 @@
     "origin_lat": 49.8927,
     "origin_lon": 10.886777,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 61,
@@ -555,7 +555,7 @@
     "origin_lat": 49.895691,
     "origin_lon": 10.89457,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 62,
@@ -564,7 +564,7 @@
     "origin_lat": 49.896734,
     "origin_lon": 10.878429,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 63,
@@ -573,7 +573,7 @@
     "origin_lat": 49.898204,
     "origin_lon": 10.899926,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 64,
@@ -582,7 +582,7 @@
     "origin_lat": 49.89172,
     "origin_lon": 10.88713,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 65,
@@ -591,7 +591,7 @@
     "origin_lat": 49.893427,
     "origin_lon": 10.885843,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 66,
@@ -600,7 +600,7 @@
     "origin_lat": 49.903,
     "origin_lon": 10.895,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 67,
@@ -609,7 +609,7 @@
     "origin_lat": 49.899158,
     "origin_lon": 10.902017,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 68,
@@ -618,7 +618,7 @@
     "origin_lat": 49.898304,
     "origin_lon": 10.899897,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 69,
@@ -627,7 +627,7 @@
     "origin_lat": 49.902288,
     "origin_lon": 10.894347,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 70,
@@ -636,7 +636,7 @@
     "origin_lat": 49.902938,
     "origin_lon": 10.895273,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 71,
@@ -645,7 +645,7 @@
     "origin_lat": 49.905453,
     "origin_lon": 10.906913,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 72,
@@ -654,16 +654,16 @@
     "origin_lat": 49.896916,
     "origin_lon": 10.885564,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 73,
     "bike_id": "ba355604-cb51-4a33-a6bc-cb1a04d14d6e",
-    "crm": 14691,
+    "crm": 14294,
     "origin_lat": 49.903464,
     "origin_lon": 10.908087,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "FINISHED"
   },
   {
     "track_id": 74,
@@ -672,7 +672,7 @@
     "origin_lat": 49.895643,
     "origin_lon": 10.879386,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 75,
@@ -681,7 +681,7 @@
     "origin_lat": 49.898321,
     "origin_lon": 10.901071,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 76,
@@ -690,7 +690,7 @@
     "origin_lat": 49.892879,
     "origin_lon": 10.886442,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 77,
@@ -699,7 +699,7 @@
     "origin_lat": 49.891512,
     "origin_lon": 10.884889,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 78,
@@ -708,7 +708,7 @@
     "origin_lat": 49.903,
     "origin_lon": 10.895,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 79,
@@ -717,7 +717,7 @@
     "origin_lat": 49.896639,
     "origin_lon": 10.879308,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 80,
@@ -726,7 +726,7 @@
     "origin_lat": 49.895793,
     "origin_lon": 10.879123,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 81,
@@ -735,7 +735,7 @@
     "origin_lat": 49.894833,
     "origin_lon": 10.892935,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 82,
@@ -744,7 +744,7 @@
     "origin_lat": 49.906075,
     "origin_lon": 10.912725,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 83,
@@ -753,7 +753,7 @@
     "origin_lat": 49.901898,
     "origin_lon": 10.89425,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 84,
@@ -762,7 +762,7 @@
     "origin_lat": 49.896464,
     "origin_lon": 10.895548,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 85,
@@ -771,7 +771,7 @@
     "origin_lat": 49.892912,
     "origin_lon": 10.889582,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 86,
@@ -780,7 +780,7 @@
     "origin_lat": 49.896957,
     "origin_lon": 10.879908,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 87,
@@ -789,7 +789,7 @@
     "origin_lat": 49.893263,
     "origin_lon": 10.887021,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 88,
@@ -798,7 +798,7 @@
     "origin_lat": 49.902748,
     "origin_lon": 10.895607,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 89,
@@ -807,7 +807,7 @@
     "origin_lat": 49.899893,
     "origin_lon": 10.892593,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 90,
@@ -816,7 +816,7 @@
     "origin_lat": 49.904852,
     "origin_lon": 10.893506,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 91,
@@ -825,7 +825,7 @@
     "origin_lat": 49.899049,
     "origin_lon": 10.89921,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 92,
@@ -834,7 +834,7 @@
     "origin_lat": 49.906037,
     "origin_lon": 10.907895,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 93,
@@ -843,7 +843,7 @@
     "origin_lat": 49.895316,
     "origin_lon": 10.888539,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 94,
@@ -852,7 +852,7 @@
     "origin_lat": 49.894416,
     "origin_lon": 10.893426,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 95,
@@ -861,7 +861,7 @@
     "origin_lat": 49.895916,
     "origin_lon": 10.879173,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 96,
@@ -870,7 +870,7 @@
     "origin_lat": 49.888226,
     "origin_lon": 10.878555,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 97,
@@ -879,7 +879,7 @@
     "origin_lat": 49.88662,
     "origin_lon": 10.875463,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 98,
@@ -888,7 +888,7 @@
     "origin_lat": 49.90738,
     "origin_lon": 10.918149,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 99,
@@ -897,7 +897,7 @@
     "origin_lat": 49.908471,
     "origin_lon": 10.918682,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 100,
@@ -906,7 +906,7 @@
     "origin_lat": 49.895866,
     "origin_lon": 10.878908,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 101,
@@ -915,7 +915,7 @@
     "origin_lat": 49.909404,
     "origin_lon": 10.918693,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 102,
@@ -924,7 +924,7 @@
     "origin_lat": 49.89154,
     "origin_lon": 10.886232,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 103,
@@ -933,7 +933,7 @@
     "origin_lat": 49.89612,
     "origin_lon": 10.878477,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 104,
@@ -942,7 +942,7 @@
     "origin_lat": 49.893912,
     "origin_lon": 10.886824,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 105,
@@ -951,7 +951,7 @@
     "origin_lat": 49.901991,
     "origin_lon": 10.895734,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 106,
@@ -960,7 +960,7 @@
     "origin_lat": 49.910698,
     "origin_lon": 10.918826,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 107,
@@ -969,7 +969,7 @@
     "origin_lat": 49.883785,
     "origin_lon": 10.872613,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 108,
@@ -978,7 +978,7 @@
     "origin_lat": 49.887391,
     "origin_lon": 10.87729,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 109,
@@ -987,7 +987,7 @@
     "origin_lat": 49.900407,
     "origin_lon": 10.89418,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 110,
@@ -996,7 +996,7 @@
     "origin_lat": 49.884798,
     "origin_lon": 10.872002,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 111,
@@ -1005,7 +1005,7 @@
     "origin_lat": 49.899806,
     "origin_lon": 10.899356,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 112,
@@ -1014,7 +1014,7 @@
     "origin_lat": 49.902648,
     "origin_lon": 10.895105,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 113,
@@ -1023,7 +1023,7 @@
     "origin_lat": 49.899653,
     "origin_lon": 10.899351,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 114,
@@ -1032,7 +1032,7 @@
     "origin_lat": 49.889309,
     "origin_lon": 10.879946,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 115,
@@ -1041,7 +1041,7 @@
     "origin_lat": 49.902215,
     "origin_lon": 10.89537,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 116,
@@ -1050,7 +1050,7 @@
     "origin_lat": 49.890957,
     "origin_lon": 10.875833,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 117,
@@ -1059,7 +1059,7 @@
     "origin_lat": 49.903056,
     "origin_lon": 10.894692,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 118,
@@ -1068,7 +1068,7 @@
     "origin_lat": 49.89479,
     "origin_lon": 10.888453,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 119,
@@ -1077,7 +1077,7 @@
     "origin_lat": 49.893769,
     "origin_lon": 10.88551,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 120,
@@ -1086,7 +1086,7 @@
     "origin_lat": 49.888236,
     "origin_lon": 10.880134,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 121,
@@ -1095,7 +1095,7 @@
     "origin_lat": 49.892725,
     "origin_lon": 10.886002,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 122,
@@ -1104,7 +1104,7 @@
     "origin_lat": 49.892029,
     "origin_lon": 10.88718,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 123,
@@ -1113,7 +1113,7 @@
     "origin_lat": 49.904698,
     "origin_lon": 10.908987,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 124,
@@ -1122,7 +1122,7 @@
     "origin_lat": 49.90372,
     "origin_lon": 10.895246,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 125,
@@ -1131,7 +1131,7 @@
     "origin_lat": 49.89715,
     "origin_lon": 10.879504,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 126,
@@ -1140,7 +1140,7 @@
     "origin_lat": 49.897915,
     "origin_lon": 10.888617,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 127,
@@ -1149,7 +1149,7 @@
     "origin_lat": 49.888466,
     "origin_lon": 10.880155,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 128,
@@ -1158,7 +1158,7 @@
     "origin_lat": 49.905962,
     "origin_lon": 10.905507,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 129,
@@ -1167,7 +1167,7 @@
     "origin_lat": 49.89762,
     "origin_lon": 10.892155,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 130,
@@ -1176,7 +1176,7 @@
     "origin_lat": 49.89716,
     "origin_lon": 10.879651,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 131,
@@ -1185,7 +1185,7 @@
     "origin_lat": 49.899293,
     "origin_lon": 10.891511,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 132,
@@ -1194,7 +1194,7 @@
     "origin_lat": 49.885259,
     "origin_lon": 10.872896,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 133,
@@ -1203,7 +1203,7 @@
     "origin_lat": 49.896578,
     "origin_lon": 10.879476,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 134,
@@ -1212,7 +1212,7 @@
     "origin_lat": 49.908345,
     "origin_lon": 10.919674,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 135,
@@ -1221,7 +1221,7 @@
     "origin_lat": 49.904296,
     "origin_lon": 10.909445,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 136,
@@ -1230,7 +1230,7 @@
     "origin_lat": 49.8925,
     "origin_lon": 10.8865,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 137,
@@ -1239,7 +1239,7 @@
     "origin_lat": 49.89849,
     "origin_lon": 10.899782,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 138,
@@ -1248,7 +1248,7 @@
     "origin_lat": 49.891272,
     "origin_lon": 10.87601,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 139,
@@ -1257,7 +1257,7 @@
     "origin_lat": 49.88578,
     "origin_lon": 10.872882,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 140,
@@ -1266,7 +1266,7 @@
     "origin_lat": 49.888919,
     "origin_lon": 10.880166,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 141,
@@ -1275,7 +1275,7 @@
     "origin_lat": 49.905823,
     "origin_lon": 10.907256,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 142,
@@ -1284,7 +1284,7 @@
     "origin_lat": 49.892216,
     "origin_lon": 10.876573,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 143,
@@ -1293,7 +1293,7 @@
     "origin_lat": 49.891342,
     "origin_lon": 10.885374,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 144,
@@ -1302,7 +1302,7 @@
     "origin_lat": 49.908425,
     "origin_lon": 10.917829,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 145,
@@ -1311,7 +1311,7 @@
     "origin_lat": 49.897172,
     "origin_lon": 10.885093,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 146,
@@ -1320,7 +1320,7 @@
     "origin_lat": 49.8965,
     "origin_lon": 10.879,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 147,
@@ -1329,7 +1329,7 @@
     "origin_lat": 49.884985,
     "origin_lon": 10.872198,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 148,
@@ -1338,7 +1338,7 @@
     "origin_lat": 49.884985,
     "origin_lon": 10.872769,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 149,
@@ -1347,7 +1347,7 @@
     "origin_lat": 49.885258,
     "origin_lon": 10.872338,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 150,
@@ -1356,7 +1356,7 @@
     "origin_lat": 49.909415,
     "origin_lon": 10.919226,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 151,
@@ -1365,7 +1365,7 @@
     "origin_lat": 49.891079,
     "origin_lon": 10.884032,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 152,
@@ -1374,7 +1374,7 @@
     "origin_lat": 49.885552,
     "origin_lon": 10.872679,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 153,
@@ -1383,7 +1383,7 @@
     "origin_lat": 49.898679,
     "origin_lon": 10.90051,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 154,
@@ -1392,7 +1392,7 @@
     "origin_lat": 49.8925,
     "origin_lon": 10.8865,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 155,
@@ -1401,7 +1401,7 @@
     "origin_lat": 49.89852,
     "origin_lon": 10.900898,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 156,
@@ -1410,7 +1410,7 @@
     "origin_lat": 49.908328,
     "origin_lon": 10.91752,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 157,
@@ -1419,7 +1419,7 @@
     "origin_lat": 49.887823,
     "origin_lon": 10.874779,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 158,
@@ -1428,7 +1428,7 @@
     "origin_lat": 49.903,
     "origin_lon": 10.895,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 159,
@@ -1437,7 +1437,7 @@
     "origin_lat": 49.900226,
     "origin_lon": 10.89109,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 160,
@@ -1446,7 +1446,7 @@
     "origin_lat": 49.897781,
     "origin_lon": 10.900894,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 161,
@@ -1455,7 +1455,7 @@
     "origin_lat": 49.891444,
     "origin_lon": 10.887965,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 162,
@@ -1464,7 +1464,7 @@
     "origin_lat": 49.90804,
     "origin_lon": 10.911423,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 163,
@@ -1473,7 +1473,7 @@
     "origin_lat": 49.895448,
     "origin_lon": 10.89308,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 164,
@@ -1482,7 +1482,7 @@
     "origin_lat": 49.886289,
     "origin_lon": 10.873696,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 165,
@@ -1491,7 +1491,7 @@
     "origin_lat": 49.903986,
     "origin_lon": 10.908447,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 166,
@@ -1500,7 +1500,7 @@
     "origin_lat": 49.89814,
     "origin_lon": 10.900998,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 167,
@@ -1509,7 +1509,7 @@
     "origin_lat": 49.902146,
     "origin_lon": 10.894886,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 168,
@@ -1518,7 +1518,7 @@
     "origin_lat": 49.9051,
     "origin_lon": 10.90305,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 169,
@@ -1527,7 +1527,7 @@
     "origin_lat": 49.903,
     "origin_lon": 10.895,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 170,
@@ -1536,7 +1536,7 @@
     "origin_lat": 49.901773,
     "origin_lon": 10.896022,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 171,
@@ -1545,7 +1545,7 @@
     "origin_lat": 49.896502,
     "origin_lon": 10.895413,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 172,
@@ -1554,7 +1554,7 @@
     "origin_lat": 49.904241,
     "origin_lon": 10.895093,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 173,
@@ -1563,7 +1563,7 @@
     "origin_lat": 49.909943,
     "origin_lon": 10.918054,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 174,
@@ -1572,7 +1572,7 @@
     "origin_lat": 49.900149,
     "origin_lon": 10.901904,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 175,
@@ -1581,7 +1581,7 @@
     "origin_lat": 49.897065,
     "origin_lon": 10.886982,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 176,
@@ -1590,7 +1590,7 @@
     "origin_lat": 49.89057,
     "origin_lon": 10.883072,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 177,
@@ -1599,7 +1599,7 @@
     "origin_lat": 49.897728,
     "origin_lon": 10.901049,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 178,
@@ -1608,7 +1608,7 @@
     "origin_lat": 49.904669,
     "origin_lon": 10.902372,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 179,
@@ -1617,7 +1617,7 @@
     "origin_lat": 49.8985,
     "origin_lon": 10.9005,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 180,
@@ -1626,7 +1626,7 @@
     "origin_lat": 49.886303,
     "origin_lon": 10.871896,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 181,
@@ -1635,7 +1635,7 @@
     "origin_lat": 49.898223,
     "origin_lon": 10.891004,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 182,
@@ -1644,7 +1644,7 @@
     "origin_lat": 49.8965,
     "origin_lon": 10.879,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 183,
@@ -1653,7 +1653,7 @@
     "origin_lat": 49.900153,
     "origin_lon": 10.889188,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 184,
@@ -1662,7 +1662,7 @@
     "origin_lat": 49.892089,
     "origin_lon": 10.885653,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 185,
@@ -1671,7 +1671,7 @@
     "origin_lat": 49.89245,
     "origin_lon": 10.887264,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 186,
@@ -1680,7 +1680,7 @@
     "origin_lat": 49.891711,
     "origin_lon": 10.886903,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 187,
@@ -1689,7 +1689,7 @@
     "origin_lat": 49.90718,
     "origin_lon": 10.911766,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 188,
@@ -1698,7 +1698,7 @@
     "origin_lat": 49.908914,
     "origin_lon": 10.917172,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 189,
@@ -1707,7 +1707,7 @@
     "origin_lat": 49.908557,
     "origin_lon": 10.917042,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 190,
@@ -1716,7 +1716,7 @@
     "origin_lat": 49.8965,
     "origin_lon": 10.879,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 191,
@@ -1725,7 +1725,7 @@
     "origin_lat": 49.88444,
     "origin_lon": 10.873171,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 192,
@@ -1734,7 +1734,7 @@
     "origin_lat": 49.90291,
     "origin_lon": 10.894823,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 193,
@@ -1743,7 +1743,7 @@
     "origin_lat": 49.892991,
     "origin_lon": 10.887106,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 194,
@@ -1752,7 +1752,7 @@
     "origin_lat": 49.8985,
     "origin_lon": 10.9005,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 195,
@@ -1761,7 +1761,7 @@
     "origin_lat": 49.898273,
     "origin_lon": 10.88245,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 196,
@@ -1770,7 +1770,7 @@
     "origin_lat": 49.891288,
     "origin_lon": 10.887593,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 197,
@@ -1779,7 +1779,7 @@
     "origin_lat": 49.903461,
     "origin_lon": 10.895249,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 198,
@@ -1788,7 +1788,7 @@
     "origin_lat": 49.911463,
     "origin_lon": 10.918896,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 199,
@@ -1797,7 +1797,7 @@
     "origin_lat": 49.889887,
     "origin_lon": 10.881412,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 200,
@@ -1806,7 +1806,7 @@
     "origin_lat": 49.891215,
     "origin_lon": 10.886663,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 201,
@@ -1815,7 +1815,7 @@
     "origin_lat": 49.887016,
     "origin_lon": 10.876777,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 202,
@@ -1824,7 +1824,7 @@
     "origin_lat": 49.904153,
     "origin_lon": 10.908997,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 203,
@@ -1833,7 +1833,7 @@
     "origin_lat": 49.885,
     "origin_lon": 10.873,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 204,
@@ -1842,7 +1842,7 @@
     "origin_lat": 49.899624,
     "origin_lon": 10.891842,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 205,
@@ -1851,7 +1851,7 @@
     "origin_lat": 49.905479,
     "origin_lon": 10.903954,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 206,
@@ -1860,7 +1860,7 @@
     "origin_lat": 49.889053,
     "origin_lon": 10.879327,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 207,
@@ -1869,7 +1869,7 @@
     "origin_lat": 49.88417,
     "origin_lon": 10.872848,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 208,
@@ -1878,7 +1878,7 @@
     "origin_lat": 49.9023,
     "origin_lon": 10.893894,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 209,
@@ -1887,7 +1887,7 @@
     "origin_lat": 49.903741,
     "origin_lon": 10.896528,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 210,
@@ -1896,7 +1896,7 @@
     "origin_lat": 49.89477,
     "origin_lon": 10.881687,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 211,
@@ -1905,7 +1905,7 @@
     "origin_lat": 49.895684,
     "origin_lon": 10.894286,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 212,
@@ -1914,7 +1914,7 @@
     "origin_lat": 49.903,
     "origin_lon": 10.895,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 213,
@@ -1923,7 +1923,7 @@
     "origin_lat": 49.8985,
     "origin_lon": 10.9005,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 214,
@@ -1932,7 +1932,7 @@
     "origin_lat": 49.896716,
     "origin_lon": 10.87896,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 215,
@@ -1941,7 +1941,7 @@
     "origin_lat": 49.898309,
     "origin_lon": 10.899774,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 216,
@@ -1950,7 +1950,7 @@
     "origin_lat": 49.903995,
     "origin_lon": 10.908939,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 217,
@@ -1959,7 +1959,7 @@
     "origin_lat": 49.896579,
     "origin_lon": 10.879601,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 218,
@@ -1968,7 +1968,7 @@
     "origin_lat": 49.907664,
     "origin_lon": 10.918435,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 219,
@@ -1977,7 +1977,7 @@
     "origin_lat": 49.902389,
     "origin_lon": 10.893556,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 220,
@@ -1986,7 +1986,7 @@
     "origin_lat": 49.903208,
     "origin_lon": 10.894277,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 221,
@@ -1995,7 +1995,7 @@
     "origin_lat": 49.89994,
     "origin_lon": 10.892523,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 222,
@@ -2004,7 +2004,7 @@
     "origin_lat": 49.884947,
     "origin_lon": 10.872031,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 223,
@@ -2013,7 +2013,7 @@
     "origin_lat": 49.888243,
     "origin_lon": 10.874358,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 224,
@@ -2022,7 +2022,7 @@
     "origin_lat": 49.886128,
     "origin_lon": 10.873677,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 225,
@@ -2031,7 +2031,7 @@
     "origin_lat": 49.901023,
     "origin_lon": 10.894362,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 226,
@@ -2040,7 +2040,7 @@
     "origin_lat": 49.895829,
     "origin_lon": 10.88581,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 227,
@@ -2049,7 +2049,7 @@
     "origin_lat": 49.896797,
     "origin_lon": 10.878517,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 228,
@@ -2058,7 +2058,7 @@
     "origin_lat": 49.894341,
     "origin_lon": 10.891845,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 229,
@@ -2067,7 +2067,7 @@
     "origin_lat": 49.909934,
     "origin_lon": 10.918204,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 230,
@@ -2076,7 +2076,7 @@
     "origin_lat": 49.896016,
     "origin_lon": 10.894166,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 231,
@@ -2085,7 +2085,7 @@
     "origin_lat": 49.898421,
     "origin_lon": 10.89128,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 232,
@@ -2094,7 +2094,7 @@
     "origin_lat": 49.885316,
     "origin_lon": 10.872663,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 233,
@@ -2103,7 +2103,7 @@
     "origin_lat": 49.899085,
     "origin_lon": 10.891279,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 234,
@@ -2112,7 +2112,7 @@
     "origin_lat": 49.896992,
     "origin_lon": 10.896444,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 235,
@@ -2121,7 +2121,7 @@
     "origin_lat": 49.88337,
     "origin_lon": 10.872194,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 236,
@@ -2130,7 +2130,7 @@
     "origin_lat": 49.907503,
     "origin_lon": 10.917719,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 237,
@@ -2139,7 +2139,7 @@
     "origin_lat": 49.898515,
     "origin_lon": 10.901841,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 238,
@@ -2148,7 +2148,7 @@
     "origin_lat": 49.896122,
     "origin_lon": 10.889302,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 239,
@@ -2157,7 +2157,7 @@
     "origin_lat": 49.903664,
     "origin_lon": 10.893231,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 240,
@@ -2166,7 +2166,7 @@
     "origin_lat": 49.909188,
     "origin_lon": 10.918617,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 241,
@@ -2175,7 +2175,7 @@
     "origin_lat": 49.89875,
     "origin_lon": 10.892815,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 242,
@@ -2184,7 +2184,7 @@
     "origin_lat": 49.891463,
     "origin_lon": 10.877083,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 243,
@@ -2193,7 +2193,7 @@
     "origin_lat": 49.903145,
     "origin_lon": 10.895199,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 244,
@@ -2202,7 +2202,7 @@
     "origin_lat": 49.908633,
     "origin_lon": 10.91732,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 245,
@@ -2211,7 +2211,7 @@
     "origin_lat": 49.897164,
     "origin_lon": 10.878315,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 246,
@@ -2220,7 +2220,7 @@
     "origin_lat": 49.885383,
     "origin_lon": 10.873267,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 247,
@@ -2229,7 +2229,7 @@
     "origin_lat": 49.888306,
     "origin_lon": 10.874256,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   },
   {
     "track_id": 248,
@@ -2238,6 +2238,6 @@
     "origin_lat": 49.892145,
     "origin_lon": 10.886802,
     "timestamp": 1748740200,
-    "state": "ACTIVE"
+    "state": "AMBIGUOUS"
   }
 ]
