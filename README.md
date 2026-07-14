@@ -28,7 +28,6 @@ python preprocessor.py
 ### Mitigation using coarsening
 ```
 python coarsening.py
-
 ```
 
 # References
