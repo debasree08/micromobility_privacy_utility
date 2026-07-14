@@ -34,6 +34,7 @@ python status_inference.py --input_dir sample_data --output_dir status_output
 ### Threat model
 ```
 python infer_trajectories.py --input_dir sample_data --output_dir tracks
+python route_derivation.py ## give codebase/trajectory_results.csv as input
 ```
 ### Mitigation techniques
 ```
