@@ -29,13 +29,16 @@ python preprocessor.py
 ```
 ### Inference of MicroMobility Vehicle (MMV) Status
 ```
+python status_inference.py --input_dir sample_data --output_dir status_output
 ```
 ### Threat model
 ```
 ```
-### Mitigation using coarsening
+### Mitigation techniques
 ```
 python coarsening.py
+python api_limiting.py
+python k_anonymity.py --input_dir sample_data --output_dir anonymized_data --k 3
 ```
 
 # References

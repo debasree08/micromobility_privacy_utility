@@ -1,0 +1,3 @@
+codebase/generate_synthetic_data.py
+codebase/verify_synthetic_data.py
+synthetic_data/
