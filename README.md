@@ -7,8 +7,29 @@ The rapid growth of shared micromobility, such as e-scooters and e-bikes, has tr
 paper/PoPETs_preprint_2026_3.pdf
 
 ## Command to run the system
+
+```
+cd codebase
+
+```
+
+### Collect data using API
+```
+```
+### Preprocess JSON files to CSV
 ```
 python preprocessor.py
+```
+### Inference of MicroMobility Vehicle (MMV) Status
+```
+```
+### Threat model
+```
+```
+### Mitigation using coarsening
+```
+python coarsening.py
+
 ```
 
 # References
