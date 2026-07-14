@@ -1,0 +1,2180 @@
+[
+  {
+    "track_id": 0,
+    "bike_id": "74d9afc9-f00b-44ff-abed-958a1d8da460",
+    "crm": 15976,
+    "origin_lat": 49.904551,
+    "origin_lon": 10.907271,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 1,
+    "bike_id": "115224b0-8a1a-4846-b93a-df98ba890751",
+    "crm": 12461,
+    "origin_lat": 49.893735,
+    "origin_lon": 10.884151,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 2,
+    "bike_id": "322ef215-547c-4bba-a767-7b7588521beb",
+    "crm": 11827,
+    "origin_lat": 49.897853,
+    "origin_lon": 10.894031,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 3,
+    "bike_id": "419b530e-f65b-4e59-93c3-6bda14145a24",
+    "crm": 20853,
+    "origin_lat": 49.896483,
+    "origin_lon": 10.896152,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 4,
+    "bike_id": "1df2d26a-f34a-4a9a-a438-76900c4140f6",
+    "crm": 21635,
+    "origin_lat": 49.8965,
+    "origin_lon": 10.879,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 5,
+    "bike_id": "56876238-7a5d-4c86-a392-73f27c58d5c3",
+    "crm": 12210,
+    "origin_lat": 49.8965,
+    "origin_lon": 10.879,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 6,
+    "bike_id": "f8662fbe-a186-4fb7-8514-9cd3c894a969",
+    "crm": 16448,
+    "origin_lat": 49.897305,
+    "origin_lon": 10.897003,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 7,
+    "bike_id": "70023b3e-23da-42fe-904c-bac18d97704b",
+    "crm": 18113,
+    "origin_lat": 49.898231,
+    "origin_lon": 10.896197,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 8,
+    "bike_id": "5e8f23fb-18b2-4efe-8868-52a9a3006f1f",
+    "crm": 14632,
+    "origin_lat": 49.8965,
+    "origin_lon": 10.879,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 9,
+    "bike_id": "04d91222-a5bc-4a34-b4c5-a9fed0e3d5d5",
+    "crm": 23903,
+    "origin_lat": 49.903,
+    "origin_lon": 10.895,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 10,
+    "bike_id": "c166dfa3-b7fc-4804-b38e-bfa7121edc29",
+    "crm": 18097,
+    "origin_lat": 49.8965,
+    "origin_lon": 10.879,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 11,
+    "bike_id": "790402cf-2784-4a7a-b415-0a30c6fd6934",
+    "crm": 17777,
+    "origin_lat": 49.903944,
+    "origin_lon": 10.909573,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 12,
+    "bike_id": "3cc7baee-385f-4ac4-ab77-186dbfe36d9f",
+    "crm": 19968,
+    "origin_lat": 49.886957,
+    "origin_lon": 10.877178,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 13,
+    "bike_id": "b856a03a-18b3-42b6-88a7-6b5f55f324d7",
+    "crm": 15079,
+    "origin_lat": 49.896866,
+    "origin_lon": 10.896688,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 14,
+    "bike_id": "6c8a1227-3cfb-4382-9865-08eba2a713cc",
+    "crm": 10256,
+    "origin_lat": 49.8925,
+    "origin_lon": 10.8865,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 15,
+    "bike_id": "499d66a8-863f-4f40-af26-351588cb9ba6",
+    "crm": 14838,
+    "origin_lat": 49.899154,
+    "origin_lon": 10.899016,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 16,
+    "bike_id": "96c5cde7-8b4e-43b0-9107-640468bd63f1",
+    "crm": 16090,
+    "origin_lat": 49.892483,
+    "origin_lon": 10.883815,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 17,
+    "bike_id": "aaed1339-8300-4838-a464-ca17f039f835",
+    "crm": 11172,
+    "origin_lat": 49.903001,
+    "origin_lon": 10.898519,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 18,
+    "bike_id": "aa5391ee-8a32-45f1-a43d-d70bf3c27df9",
+    "crm": 22499,
+    "origin_lat": 49.8925,
+    "origin_lon": 10.8865,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 19,
+    "bike_id": "0d7c311f-4a97-466f-907d-b620d36ed289",
+    "crm": 20356,
+    "origin_lat": 49.898807,
+    "origin_lon": 10.899986,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 20,
+    "bike_id": "bd961b0a-bee5-49ab-a78f-87d6b03ba6fe",
+    "crm": 11690,
+    "origin_lat": 49.898251,
+    "origin_lon": 10.892651,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 21,
+    "bike_id": "2534d179-f609-4652-bfe0-59e318835622",
+    "crm": 17018,
+    "origin_lat": 49.8985,
+    "origin_lon": 10.9005,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 22,
+    "bike_id": "a7e4df98-4761-4e91-90db-2939b86bb055",
+    "crm": 14410,
+    "origin_lat": 49.900455,
+    "origin_lon": 10.891338,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 23,
+    "bike_id": "9e7bb21e-8186-41fa-bbbf-c32917af4cd3",
+    "crm": 15759,
+    "origin_lat": 49.8925,
+    "origin_lon": 10.8865,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 24,
+    "bike_id": "6c735d45-9624-44e1-96c4-60b81c76ee56",
+    "crm": 20030,
+    "origin_lat": 49.891699,
+    "origin_lon": 10.885776,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 25,
+    "bike_id": "dfe76837-d662-4bbb-a89d-4b0de8cdff57",
+    "crm": 15186,
+    "origin_lat": 49.899575,
+    "origin_lon": 10.891693,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 26,
+    "bike_id": "3c985701-d673-46bb-b3d6-45635f0a4058",
+    "crm": 19517,
+    "origin_lat": 49.90475,
+    "origin_lon": 10.90367,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 27,
+    "bike_id": "202a2216-a665-465a-947e-8bdfea12feb1",
+    "crm": 11584,
+    "origin_lat": 49.8925,
+    "origin_lon": 10.8865,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 28,
+    "bike_id": "439c636c-588e-4826-933d-7b9741fe26ee",
+    "crm": 12369,
+    "origin_lat": 49.895397,
+    "origin_lon": 10.893576,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 29,
+    "bike_id": "01380aee-733c-47c4-bc20-30bc94406e8b",
+    "crm": 14446,
+    "origin_lat": 49.8985,
+    "origin_lon": 10.9005,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 30,
+    "bike_id": "5d5130d7-9bec-4582-a4b8-af1bebc29322",
+    "crm": 10491,
+    "origin_lat": 49.894009,
+    "origin_lon": 10.88719,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 31,
+    "bike_id": "571dc548-7cc1-4097-ac9e-09feadb9c37e",
+    "crm": 19275,
+    "origin_lat": 49.890004,
+    "origin_lon": 10.883193,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 32,
+    "bike_id": "2d9ef371-3346-4535-9bc2-20c2472f7fdb",
+    "crm": 14764,
+    "origin_lat": 49.904239,
+    "origin_lon": 10.904501,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 33,
+    "bike_id": "e30e0da7-7bd5-4e9c-9230-085b9d409828",
+    "crm": 16578,
+    "origin_lat": 49.90139,
+    "origin_lon": 10.901747,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 34,
+    "bike_id": "d0e58a06-29df-4389-9a39-96ddbaff015b",
+    "crm": 15239,
+    "origin_lat": 49.8965,
+    "origin_lon": 10.879,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 35,
+    "bike_id": "6da7e9e3-a3af-4ff1-bb43-6987b4f57ab9",
+    "crm": 11320,
+    "origin_lat": 49.891128,
+    "origin_lon": 10.880965,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 36,
+    "bike_id": "0a652848-e6e6-4ae0-bcd2-fd6ed31cb461",
+    "crm": 17998,
+    "origin_lat": 49.902769,
+    "origin_lon": 10.906513,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 37,
+    "bike_id": "ba0b4770-9c3e-4c68-8ad9-707c0acc3fb6",
+    "crm": 21073,
+    "origin_lat": 49.8925,
+    "origin_lon": 10.8865,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 38,
+    "bike_id": "c5d73f0c-91ba-442a-b5ac-b88d61025701",
+    "crm": 16700,
+    "origin_lat": 49.890249,
+    "origin_lon": 10.882599,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 39,
+    "bike_id": "1eaed9ab-8292-412b-8fc9-d30b72850fec",
+    "crm": 13383,
+    "origin_lat": 49.891828,
+    "origin_lon": 10.88691,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 40,
+    "bike_id": "eda78401-e5e2-42c1-8d59-0b9155379f58",
+    "crm": 18483,
+    "origin_lat": 49.897527,
+    "origin_lon": 10.896132,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 41,
+    "bike_id": "b114febe-0e10-4b45-a66c-8fd027950dc0",
+    "crm": 16987,
+    "origin_lat": 49.896104,
+    "origin_lon": 10.894909,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 42,
+    "bike_id": "e11f6538-e949-407b-94a3-fd5743f5216e",
+    "crm": 14432,
+    "origin_lat": 49.901988,
+    "origin_lon": 10.89251,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 43,
+    "bike_id": "2701563f-ea6a-4ab4-b083-7e5cd67b6eab",
+    "crm": 11590,
+    "origin_lat": 49.896634,
+    "origin_lon": 10.887219,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 44,
+    "bike_id": "127dd2a1-3807-4df3-882f-178ae0906f7e",
+    "crm": 12698,
+    "origin_lat": 49.892597,
+    "origin_lon": 10.888475,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 45,
+    "bike_id": "4ac1db55-ae8c-4fa7-802d-2b52d8db4d8b",
+    "crm": 12558,
+    "origin_lat": 49.898436,
+    "origin_lon": 10.888813,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 46,
+    "bike_id": "3b20db78-ad1c-46cc-b585-9923505ac593",
+    "crm": 22110,
+    "origin_lat": 49.904636,
+    "origin_lon": 10.909817,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 47,
+    "bike_id": "83ae4605-19f5-4e74-9bda-da1081e13970",
+    "crm": 23860,
+    "origin_lat": 49.898368,
+    "origin_lon": 10.900213,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 48,
+    "bike_id": "75bb4b5a-1fbe-48c5-a66a-60ad20942fbc",
+    "crm": 18467,
+    "origin_lat": 49.893798,
+    "origin_lon": 10.887085,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 49,
+    "bike_id": "2e6e0141-9d33-4103-8941-65c15ff0a137",
+    "crm": 17432,
+    "origin_lat": 49.8985,
+    "origin_lon": 10.9005,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 50,
+    "bike_id": "fd74aca6-5d40-4913-be5b-dda3b726f1fd",
+    "crm": 19000,
+    "origin_lat": 49.885,
+    "origin_lon": 10.873,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 51,
+    "bike_id": "fa5f90b1-19ce-4eef-a0fd-60795ff583a5",
+    "crm": 13738,
+    "origin_lat": 49.887837,
+    "origin_lon": 10.878107,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 52,
+    "bike_id": "b2fa452f-5d46-4812-b6e7-3939db468618",
+    "crm": 18116,
+    "origin_lat": 49.897238,
+    "origin_lon": 10.880829,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 53,
+    "bike_id": "de7d77bc-018e-40ff-bf63-ff083e346e82",
+    "crm": 11680,
+    "origin_lat": 49.898614,
+    "origin_lon": 10.897303,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 54,
+    "bike_id": "1fe2a76b-04f0-42e9-9786-2eeaf600a0fd",
+    "crm": 12433,
+    "origin_lat": 49.894752,
+    "origin_lon": 10.891754,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 55,
+    "bike_id": "4877f518-291e-4c99-b227-8811acb2a7d4",
+    "crm": 10800,
+    "origin_lat": 49.894443,
+    "origin_lon": 10.889906,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 56,
+    "bike_id": "68a2322a-d91c-4c9a-b1a0-663d0b6cb614",
+    "crm": 15258,
+    "origin_lat": 49.903697,
+    "origin_lon": 10.909086,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 57,
+    "bike_id": "21f6d0bc-e4de-4920-b611-af1256f11670",
+    "crm": 19872,
+    "origin_lat": 49.903,
+    "origin_lon": 10.895,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 58,
+    "bike_id": "1f3b4d18-9ac5-4b82-9329-1c0e84756dc7",
+    "crm": 13881,
+    "origin_lat": 49.890919,
+    "origin_lon": 10.878249,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 59,
+    "bike_id": "875fcebf-175e-4b54-8653-f2b6b1028d16",
+    "crm": 17642,
+    "origin_lat": 49.89804,
+    "origin_lon": 10.890985,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 60,
+    "bike_id": "c99f5759-6c6b-43e2-9453-a75c0c10e7d0",
+    "crm": 11293,
+    "origin_lat": 49.904722,
+    "origin_lon": 10.901601,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 61,
+    "bike_id": "0150548d-ac9f-4315-a879-106bcf278b99",
+    "crm": 12372,
+    "origin_lat": 49.903,
+    "origin_lon": 10.895,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 62,
+    "bike_id": "268e5eac-2a03-42f6-b2af-f50a8f72be14",
+    "crm": 16613,
+    "origin_lat": 49.8925,
+    "origin_lon": 10.8865,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 63,
+    "bike_id": "045f8ff3-0b4f-4c77-b1ca-f1d274b43d37",
+    "crm": 14891,
+    "origin_lat": 49.89877,
+    "origin_lon": 10.89847,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 64,
+    "bike_id": "9a4e92f6-aa16-4b90-b9b6-5a1172371810",
+    "crm": 14478,
+    "origin_lat": 49.897683,
+    "origin_lon": 10.886057,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 65,
+    "bike_id": "7bf28196-95bb-4fab-a6c3-f807220a6db6",
+    "crm": 20159,
+    "origin_lat": 49.892792,
+    "origin_lon": 10.877065,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 66,
+    "bike_id": "17b22623-c741-4f2d-8b7b-ec915d88c157",
+    "crm": 18872,
+    "origin_lat": 49.893427,
+    "origin_lon": 10.885843,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 67,
+    "bike_id": "97467a14-0051-4208-a8ab-8ed25ef72845",
+    "crm": 11969,
+    "origin_lat": 49.900918,
+    "origin_lon": 10.892607,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 68,
+    "bike_id": "3b600cb2-d663-40bc-890d-ca087838cde7",
+    "crm": 18426,
+    "origin_lat": 49.897472,
+    "origin_lon": 10.892787,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 69,
+    "bike_id": "95c812aa-8da2-4157-9d5d-4f941a94298d",
+    "crm": 22017,
+    "origin_lat": 49.900926,
+    "origin_lon": 10.893363,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 70,
+    "bike_id": "3f6ac89b-dfbb-462a-86ed-64443841ab09",
+    "crm": 13614,
+    "origin_lat": 49.899708,
+    "origin_lon": 10.90094,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 71,
+    "bike_id": "596c0883-9353-4377-9cb2-6df5e24e973a",
+    "crm": 14549,
+    "origin_lat": 49.899115,
+    "origin_lon": 10.890764,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 72,
+    "bike_id": "0e959c12-9e16-4b4d-aa21-bf788ded01e6",
+    "crm": 9024,
+    "origin_lat": 49.898713,
+    "origin_lon": 10.895046,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 73,
+    "bike_id": "db2f0856-d3d5-401a-a5c1-0ed427c38b2b",
+    "crm": 11331,
+    "origin_lat": 49.903,
+    "origin_lon": 10.895,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 74,
+    "bike_id": "ca07cb59-aa15-4e7a-bee7-1ea5d3e688e9",
+    "crm": 20471,
+    "origin_lat": 49.895506,
+    "origin_lon": 10.887681,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 75,
+    "bike_id": "328b782d-288b-49e7-b454-ea57752c6f71",
+    "crm": 21507,
+    "origin_lat": 49.900511,
+    "origin_lon": 10.897571,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 76,
+    "bike_id": "18db6361-f042-4310-9f90-33d952501f00",
+    "crm": 14229,
+    "origin_lat": 49.896557,
+    "origin_lon": 10.87914,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 77,
+    "bike_id": "e6f3c532-cc42-4b0e-977b-60f7fe06dd19",
+    "crm": 21288,
+    "origin_lat": 49.888365,
+    "origin_lon": 10.878062,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 78,
+    "bike_id": "1fe9ad52-abde-4e05-92bf-1fc4962d70d7",
+    "crm": 12212,
+    "origin_lat": 49.897756,
+    "origin_lon": 10.885998,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 79,
+    "bike_id": "a8886241-63c0-4bd3-9562-175eadc160cb",
+    "crm": 19628,
+    "origin_lat": 49.8925,
+    "origin_lon": 10.8865,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 80,
+    "bike_id": "07712232-9fe2-451e-b737-c3e79152ea57",
+    "crm": 15121,
+    "origin_lat": 49.899304,
+    "origin_lon": 10.892002,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 81,
+    "bike_id": "97ead926-5ba3-466a-9a2c-43a752a2c04d",
+    "crm": 14994,
+    "origin_lat": 49.892391,
+    "origin_lon": 10.876856,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 82,
+    "bike_id": "c2c6b02a-e9a3-4488-9e69-dd89e3de549a",
+    "crm": 14401,
+    "origin_lat": 49.899238,
+    "origin_lon": 10.894717,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 83,
+    "bike_id": "9ca974c8-67ae-40af-88fa-99b273f17c2f",
+    "crm": 20036,
+    "origin_lat": 49.899576,
+    "origin_lon": 10.894172,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 84,
+    "bike_id": "4b38051c-7df8-48da-a19e-c36b19dfc4b2",
+    "crm": 14252,
+    "origin_lat": 49.892886,
+    "origin_lon": 10.889064,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 85,
+    "bike_id": "a21cb3f1-7a53-4939-90de-89939dd641c5",
+    "crm": 21083,
+    "origin_lat": 49.889281,
+    "origin_lon": 10.876214,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 86,
+    "bike_id": "bbc95d70-e123-4cc7-8e4a-7494618797a0",
+    "crm": 18631,
+    "origin_lat": 49.898289,
+    "origin_lon": 10.890439,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 87,
+    "bike_id": "f3363899-feb6-44a3-b8fd-237965b4fc8e",
+    "crm": 19102,
+    "origin_lat": 49.89663,
+    "origin_lon": 10.879319,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 88,
+    "bike_id": "2c29f506-1f40-40b4-8e09-5704642195a9",
+    "crm": 21876,
+    "origin_lat": 49.903,
+    "origin_lon": 10.895,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 89,
+    "bike_id": "906b0c0c-3c9a-49c1-9757-2b874640b49c",
+    "crm": 21591,
+    "origin_lat": 49.898697,
+    "origin_lon": 10.900645,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 90,
+    "bike_id": "1a65decb-32a8-4e25-8aba-800c2af108a0",
+    "crm": 20296,
+    "origin_lat": 49.903974,
+    "origin_lon": 10.902922,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 91,
+    "bike_id": "d0b76867-68a3-4029-85b3-a927258472f6",
+    "crm": 13217,
+    "origin_lat": 49.8985,
+    "origin_lon": 10.9005,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 92,
+    "bike_id": "ed1bf52e-b21f-4fa1-834f-253d869b010e",
+    "crm": 10921,
+    "origin_lat": 49.893116,
+    "origin_lon": 10.88619,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 93,
+    "bike_id": "6681b976-e849-4b1e-aa84-db5b455e4d98",
+    "crm": 16127,
+    "origin_lat": 49.90032,
+    "origin_lon": 10.902873,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 94,
+    "bike_id": "10b39758-8030-4deb-aff1-0dedeb47f1ca",
+    "crm": 17341,
+    "origin_lat": 49.904084,
+    "origin_lon": 10.90916,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 95,
+    "bike_id": "fe779114-e432-47d5-b06c-dc23c4f9a0fa",
+    "crm": 14524,
+    "origin_lat": 49.889453,
+    "origin_lon": 10.880935,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 96,
+    "bike_id": "03c3c54f-a6da-4eb5-9f7b-477725c07775",
+    "crm": 11145,
+    "origin_lat": 49.894998,
+    "origin_lon": 10.885157,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 97,
+    "bike_id": "5733aed8-d39a-415b-891d-eaad18f12e92",
+    "crm": 11620,
+    "origin_lat": 49.8985,
+    "origin_lon": 10.9005,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 98,
+    "bike_id": "9c861881-a281-493f-a0d2-077a647c05f6",
+    "crm": 16802,
+    "origin_lat": 49.897851,
+    "origin_lon": 10.896187,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 99,
+    "bike_id": "50c1643f-c4b2-44a1-b714-259918b67014",
+    "crm": 13835,
+    "origin_lat": 49.90164,
+    "origin_lon": 10.893807,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 100,
+    "bike_id": "348f8f01-fce7-4aff-9197-6a98973fcd12",
+    "crm": 20702,
+    "origin_lat": 49.903,
+    "origin_lon": 10.895,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 101,
+    "bike_id": "dd2567ee-4f36-4569-bf99-bc1455f74750",
+    "crm": 20369,
+    "origin_lat": 49.903,
+    "origin_lon": 10.895,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 102,
+    "bike_id": "86641a57-6370-4e21-b3c6-33384ab7d1a9",
+    "crm": 15359,
+    "origin_lat": 49.898769,
+    "origin_lon": 10.884648,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 103,
+    "bike_id": "a297f1e6-6030-4f93-b6c3-8b458df4c732",
+    "crm": 14097,
+    "origin_lat": 49.901401,
+    "origin_lon": 10.900263,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 104,
+    "bike_id": "680f8a03-0416-4072-be4e-3e7965bd23b2",
+    "crm": 16224,
+    "origin_lat": 49.896962,
+    "origin_lon": 10.881211,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 105,
+    "bike_id": "ffb73aaf-12ea-454d-88fc-da004ea74941",
+    "crm": 19931,
+    "origin_lat": 49.903,
+    "origin_lon": 10.895,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 106,
+    "bike_id": "b119a172-b071-4a19-837a-f3892c0fcf53",
+    "crm": 17532,
+    "origin_lat": 49.883785,
+    "origin_lon": 10.872613,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 107,
+    "bike_id": "d93523ab-4d6a-43c4-a308-722ffde10e8f",
+    "crm": 14465,
+    "origin_lat": 49.898584,
+    "origin_lon": 10.900398,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 108,
+    "bike_id": "9fa8917a-7423-4473-a139-abe883d019b8",
+    "crm": 14780,
+    "origin_lat": 49.899041,
+    "origin_lon": 10.893463,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 109,
+    "bike_id": "9483c333-fa98-4305-982a-13c0632d28d0",
+    "crm": 19827,
+    "origin_lat": 49.897756,
+    "origin_lon": 10.895115,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 110,
+    "bike_id": "0ea19490-726e-48ae-871b-7d2c672ddd86",
+    "crm": 17981,
+    "origin_lat": 49.891802,
+    "origin_lon": 10.881416,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 111,
+    "bike_id": "3c6c7e18-4cf7-4e7a-be42-316b1d18c7ae",
+    "crm": 12037,
+    "origin_lat": 49.902452,
+    "origin_lon": 10.899402,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 112,
+    "bike_id": "9bf300ce-9d07-4979-8bfc-54efe426cdc7",
+    "crm": 17621,
+    "origin_lat": 49.902155,
+    "origin_lon": 10.904343,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 113,
+    "bike_id": "31d2714c-cdeb-489d-84f2-f2361e47ff9d",
+    "crm": 20140,
+    "origin_lat": 49.897796,
+    "origin_lon": 10.893525,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 114,
+    "bike_id": "720a1808-114c-4167-9872-7c89d31d3e53",
+    "crm": 20400,
+    "origin_lat": 49.889365,
+    "origin_lon": 10.875277,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 115,
+    "bike_id": "5d7c5302-cf6d-4702-b48d-36b2218b9639",
+    "crm": 13453,
+    "origin_lat": 49.897694,
+    "origin_lon": 10.890549,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 116,
+    "bike_id": "9131b957-d7fd-455f-b0c0-1cfbb63a4ca5",
+    "crm": 18088,
+    "origin_lat": 49.89479,
+    "origin_lon": 10.888453,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 117,
+    "bike_id": "1207b9c6-8348-4990-99d2-84bbd0815fea",
+    "crm": 17507,
+    "origin_lat": 49.897463,
+    "origin_lon": 10.894932,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 118,
+    "bike_id": "726ca930-857a-4b7f-9141-ed345db3a03d",
+    "crm": 21915,
+    "origin_lat": 49.894717,
+    "origin_lon": 10.890693,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 119,
+    "bike_id": "23d4a896-27ec-4537-a1a8-0e14d5f71e7f",
+    "crm": 16488,
+    "origin_lat": 49.901014,
+    "origin_lon": 10.899716,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 120,
+    "bike_id": "c587569d-25c1-427c-bae3-0ca9a8a3b11c",
+    "crm": 14274,
+    "origin_lat": 49.8965,
+    "origin_lon": 10.879,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 121,
+    "bike_id": "00ee7373-60a4-4a09-946c-1c482b754b7f",
+    "crm": 21061,
+    "origin_lat": 49.90298,
+    "origin_lon": 10.895161,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 122,
+    "bike_id": "efe33a50-b16b-4ef0-b3b3-8af7c268d927",
+    "crm": 16591,
+    "origin_lat": 49.89902,
+    "origin_lon": 10.892667,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 123,
+    "bike_id": "38967c92-7482-4cca-bfac-3f4fda46ff48",
+    "crm": 22229,
+    "origin_lat": 49.89414,
+    "origin_lon": 10.891244,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 124,
+    "bike_id": "a01e86bd-d538-4d19-8d69-0e7b4ad4ff63",
+    "crm": 16577,
+    "origin_lat": 49.899701,
+    "origin_lon": 10.900247,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 125,
+    "bike_id": "1ec5601f-04f1-41ab-b993-3bd91593588d",
+    "crm": 12914,
+    "origin_lat": 49.897602,
+    "origin_lon": 10.89063,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 126,
+    "bike_id": "8fe5136a-0aa5-4bf6-aa9a-0b90baba3af3",
+    "crm": 18049,
+    "origin_lat": 49.89769,
+    "origin_lon": 10.891795,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 127,
+    "bike_id": "76641f35-9071-4845-b847-9d903d787c63",
+    "crm": 16568,
+    "origin_lat": 49.8965,
+    "origin_lon": 10.879,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 128,
+    "bike_id": "312b5db8-2fdd-48b1-bfa2-9e523a3b695f",
+    "crm": 23124,
+    "origin_lat": 49.898603,
+    "origin_lon": 10.899327,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 129,
+    "bike_id": "19a6fa1f-a1c5-45c2-b7be-d153bf704cd1",
+    "crm": 19071,
+    "origin_lat": 49.8985,
+    "origin_lon": 10.9005,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 130,
+    "bike_id": "9eca203f-fffe-4369-a3f3-1ddfb1ba3a0c",
+    "crm": 17174,
+    "origin_lat": 49.894656,
+    "origin_lon": 10.877999,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 131,
+    "bike_id": "46356038-bacc-49ae-ae09-cb1b67ec0c8e",
+    "crm": 15608,
+    "origin_lat": 49.8985,
+    "origin_lon": 10.9005,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 132,
+    "bike_id": "3f3d1255-b86a-4132-a8d6-1c49b2dd4a21",
+    "crm": 18432,
+    "origin_lat": 49.89944,
+    "origin_lon": 10.899748,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 133,
+    "bike_id": "f2668dbd-b9b4-4ec8-b9fe-099514c50974",
+    "crm": 14773,
+    "origin_lat": 49.8965,
+    "origin_lon": 10.879,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 134,
+    "bike_id": "5ae0187b-fd16-4eca-ac9d-c20b25a8ae63",
+    "crm": 14633,
+    "origin_lat": 49.8925,
+    "origin_lon": 10.8865,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 135,
+    "bike_id": "18385dec-ccf2-48c6-95d1-9d077d4511cf",
+    "crm": 15400,
+    "origin_lat": 49.8985,
+    "origin_lon": 10.9005,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 136,
+    "bike_id": "6cba7c36-ed31-4474-96cf-31bd9d09561c",
+    "crm": 21712,
+    "origin_lat": 49.901298,
+    "origin_lon": 10.890809,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 137,
+    "bike_id": "e87b8e64-62d6-4e45-af91-91450132e105",
+    "crm": 16007,
+    "origin_lat": 49.896586,
+    "origin_lon": 10.88849,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 138,
+    "bike_id": "cac7242b-f1d3-4b3f-8007-168f50071283",
+    "crm": 13606,
+    "origin_lat": 49.893386,
+    "origin_lon": 10.889125,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 139,
+    "bike_id": "700858d0-424c-4d34-8b6b-893e1d7d7f4d",
+    "crm": 18659,
+    "origin_lat": 49.902807,
+    "origin_lon": 10.895563,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 140,
+    "bike_id": "bba8571f-eec1-458f-916f-934c83af208b",
+    "crm": 15610,
+    "origin_lat": 49.89508,
+    "origin_lon": 10.89178,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 141,
+    "bike_id": "0d8ac642-7a4a-4416-8cad-cdd6c2a8c61b",
+    "crm": 20762,
+    "origin_lat": 49.896413,
+    "origin_lon": 10.879613,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 142,
+    "bike_id": "13d50f13-f71e-409a-b019-47f99842efc0",
+    "crm": 19489,
+    "origin_lat": 49.898255,
+    "origin_lon": 10.883321,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 143,
+    "bike_id": "b47b9e6b-8209-4908-8fb4-a76394fe6f40",
+    "crm": 20303,
+    "origin_lat": 49.906422,
+    "origin_lon": 10.908609,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 144,
+    "bike_id": "932a3a77-18b4-4a32-8f9c-adb63a80fa2d",
+    "crm": 21599,
+    "origin_lat": 49.897977,
+    "origin_lon": 10.88881,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 145,
+    "bike_id": "398cffd5-e83e-4e58-9c7f-dc79918a562e",
+    "crm": 19348,
+    "origin_lat": 49.896052,
+    "origin_lon": 10.893281,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 146,
+    "bike_id": "d20beeb4-2c1a-40a0-838e-103a7f7b7cf5",
+    "crm": 20674,
+    "origin_lat": 49.895355,
+    "origin_lon": 10.894093,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 147,
+    "bike_id": "016da4bb-21f6-4fcf-b9c8-57d987bdc328",
+    "crm": 15084,
+    "origin_lat": 49.896156,
+    "origin_lon": 10.881396,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 148,
+    "bike_id": "79e65511-7c8e-4966-a0c5-e82cafac066d",
+    "crm": 17735,
+    "origin_lat": 49.895447,
+    "origin_lon": 10.880204,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 149,
+    "bike_id": "5dd6c9d8-6048-4733-a451-c969ebfd1dd9",
+    "crm": 20238,
+    "origin_lat": 49.898679,
+    "origin_lon": 10.90051,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 150,
+    "bike_id": "4fda00ec-3221-4467-9c12-1aef16b1d7cf",
+    "crm": 16083,
+    "origin_lat": 49.897653,
+    "origin_lon": 10.891395,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 151,
+    "bike_id": "f50aa0bc-6c61-45de-88bf-9fbe41c1dabe",
+    "crm": 16184,
+    "origin_lat": 49.8985,
+    "origin_lon": 10.9005,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 152,
+    "bike_id": "80c9de3f-396c-48e7-a122-9e512f3c0258",
+    "crm": 18805,
+    "origin_lat": 49.902603,
+    "origin_lon": 10.894679,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 153,
+    "bike_id": "a4186d31-90bf-4910-8193-5c0c32dd50d7",
+    "crm": 22246,
+    "origin_lat": 49.905675,
+    "origin_lon": 10.907625,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 154,
+    "bike_id": "b817532e-044d-4462-a707-a50b988a7158",
+    "crm": 14381,
+    "origin_lat": 49.894412,
+    "origin_lon": 10.885049,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 155,
+    "bike_id": "a62ae32b-63d3-4c15-865f-6f6c0a878371",
+    "crm": 19147,
+    "origin_lat": 49.903,
+    "origin_lon": 10.895,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 156,
+    "bike_id": "bbac76cb-f036-46d6-b9ae-7d8c7fe4d5f7",
+    "crm": 21342,
+    "origin_lat": 49.8985,
+    "origin_lon": 10.9005,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 157,
+    "bike_id": "56da8426-f5ce-409d-8c10-15a44fe75308",
+    "crm": 21972,
+    "origin_lat": 49.899471,
+    "origin_lon": 10.893753,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 158,
+    "bike_id": "1bbc5200-0221-4b51-9439-32a1c5349918",
+    "crm": 18555,
+    "origin_lat": 49.8965,
+    "origin_lon": 10.879,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 159,
+    "bike_id": "fe1e943f-c77f-4b7a-8b5c-b104a8fca5b0",
+    "crm": 18276,
+    "origin_lat": 49.898196,
+    "origin_lon": 10.897794,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 160,
+    "bike_id": "0645f56d-2e14-4ac5-8d96-43db568c3ac6",
+    "crm": 23751,
+    "origin_lat": 49.897129,
+    "origin_lon": 10.901583,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 161,
+    "bike_id": "08b6dfb3-c21e-4cfb-82a7-df6c36347824",
+    "crm": 21250,
+    "origin_lat": 49.892806,
+    "origin_lon": 10.886024,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 162,
+    "bike_id": "50099aba-0909-42de-baf3-1c6908362c4b",
+    "crm": 12993,
+    "origin_lat": 49.8925,
+    "origin_lon": 10.8865,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 163,
+    "bike_id": "f938b5e6-ebfe-4753-bbd2-efbbaf6f2559",
+    "crm": 19139,
+    "origin_lat": 49.893904,
+    "origin_lon": 10.887888,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 164,
+    "bike_id": "1811396a-a9b0-4f2a-9edb-e979562cbf13",
+    "crm": 18645,
+    "origin_lat": 49.903,
+    "origin_lon": 10.895,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 165,
+    "bike_id": "2d27a8ca-22a5-412d-8c8d-c525c65ace37",
+    "crm": 18098,
+    "origin_lat": 49.8985,
+    "origin_lon": 10.9005,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 166,
+    "bike_id": "a7a117d4-736e-44e7-a959-c2d8abde2b7e",
+    "crm": 15568,
+    "origin_lat": 49.898272,
+    "origin_lon": 10.892205,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 167,
+    "bike_id": "db48d1ff-e657-4af0-bb4d-221d36a3b0c8",
+    "crm": 20027,
+    "origin_lat": 49.895833,
+    "origin_lon": 10.89261,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 168,
+    "bike_id": "9bba4421-9e83-4c01-a3a6-9cc2d140b3e1",
+    "crm": 21631,
+    "origin_lat": 49.895045,
+    "origin_lon": 10.889113,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 169,
+    "bike_id": "b4d1348a-916c-440d-9fee-48aeda9e5ce3",
+    "crm": 10370,
+    "origin_lat": 49.896792,
+    "origin_lon": 10.893623,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 170,
+    "bike_id": "451a5895-7fa2-4118-8cee-dab00303980a",
+    "crm": 13591,
+    "origin_lat": 49.90518,
+    "origin_lon": 10.911316,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 171,
+    "bike_id": "0faa2241-e56f-421c-b85f-fe284e169ada",
+    "crm": 10894,
+    "origin_lat": 49.892867,
+    "origin_lon": 10.88647,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 172,
+    "bike_id": "91a5ec16-90b3-4a61-9bef-4d238bcf5f48",
+    "crm": 13754,
+    "origin_lat": 49.899174,
+    "origin_lon": 10.891903,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 173,
+    "bike_id": "70cb3e06-4933-4fd6-a5fb-f4e40fcbc0df",
+    "crm": 18338,
+    "origin_lat": 49.8925,
+    "origin_lon": 10.8865,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 174,
+    "bike_id": "3cb33b04-801c-42dc-9592-709094ed07ca",
+    "crm": 16761,
+    "origin_lat": 49.900033,
+    "origin_lon": 10.891307,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 175,
+    "bike_id": "29c6b776-ed15-400a-b509-0e7addecc702",
+    "crm": 23973,
+    "origin_lat": 49.897861,
+    "origin_lon": 10.887052,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 176,
+    "bike_id": "6620621f-a411-4bc4-8285-b61b979bb04b",
+    "crm": 12482,
+    "origin_lat": 49.900718,
+    "origin_lon": 10.892344,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 177,
+    "bike_id": "b19ef695-d367-44ed-a57c-7261bb674a84",
+    "crm": 18249,
+    "origin_lat": 49.886303,
+    "origin_lon": 10.871896,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 178,
+    "bike_id": "1bffbaba-19d0-4a6e-9263-790634fd8f2e",
+    "crm": 15103,
+    "origin_lat": 49.8925,
+    "origin_lon": 10.8865,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 179,
+    "bike_id": "c870eed6-23c3-4c6f-9cd0-ef81ce86a67a",
+    "crm": 14300,
+    "origin_lat": 49.89943,
+    "origin_lon": 10.888594,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 180,
+    "bike_id": "f240ac71-c1be-410c-b4d3-f0c600c1ee47",
+    "crm": 16599,
+    "origin_lat": 49.89454,
+    "origin_lon": 10.886509,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 181,
+    "bike_id": "13b57a93-0a40-4086-ad71-9aa6f5ad8343",
+    "crm": 17478,
+    "origin_lat": 49.8925,
+    "origin_lon": 10.8865,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 182,
+    "bike_id": "be51e724-e269-4e87-a380-dc245ac3d9b7",
+    "crm": 16925,
+    "origin_lat": 49.893624,
+    "origin_lon": 10.889238,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 183,
+    "bike_id": "11a58d6c-7c1b-4792-9cb6-32587688539a",
+    "crm": 13744,
+    "origin_lat": 49.898412,
+    "origin_lon": 10.897922,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 184,
+    "bike_id": "d417e3bf-bb42-40af-82cc-a14d1691d61f",
+    "crm": 14915,
+    "origin_lat": 49.896568,
+    "origin_lon": 10.885472,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 185,
+    "bike_id": "dc589986-8f30-4094-9afb-f44bc3e76d92",
+    "crm": 17872,
+    "origin_lat": 49.897521,
+    "origin_lon": 10.893401,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 186,
+    "bike_id": "dfa5d5a6-0b2e-4c62-9066-6f8dc3ad72f7",
+    "crm": 21574,
+    "origin_lat": 49.892433,
+    "origin_lon": 10.879287,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 187,
+    "bike_id": "cb88f6ce-2116-488d-9f91-c1bda7c3f6a0",
+    "crm": 15574,
+    "origin_lat": 49.903,
+    "origin_lon": 10.895,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 188,
+    "bike_id": "379c30c6-e084-47ad-972d-44a3e8ed7d3c",
+    "crm": 18718,
+    "origin_lat": 49.894946,
+    "origin_lon": 10.891169,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 189,
+    "bike_id": "49f7f4a0-31a8-418a-bd04-16d7ef448306",
+    "crm": 22147,
+    "origin_lat": 49.8925,
+    "origin_lon": 10.8865,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 190,
+    "bike_id": "82d08ff3-1fe1-4d10-b1c4-112f8d3348ff",
+    "crm": 15308,
+    "origin_lat": 49.8925,
+    "origin_lon": 10.8865,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 191,
+    "bike_id": "2fb78e64-d154-42b0-bc3f-b097b8a08261",
+    "crm": 17631,
+    "origin_lat": 49.903,
+    "origin_lon": 10.895,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 192,
+    "bike_id": "4dd5917f-1025-423b-89ca-3f5c18633990",
+    "crm": 22500,
+    "origin_lat": 49.903,
+    "origin_lon": 10.895,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 193,
+    "bike_id": "49d5f975-911d-419a-aacb-5ba169c42fb3",
+    "crm": 20484,
+    "origin_lat": 49.894859,
+    "origin_lon": 10.893083,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 194,
+    "bike_id": "0d7ea709-b34a-48d7-87f6-08621843eb32",
+    "crm": 15924,
+    "origin_lat": 49.892298,
+    "origin_lon": 10.878003,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 195,
+    "bike_id": "b99e79c6-5545-4a03-a1ec-20271467da35",
+    "crm": 18290,
+    "origin_lat": 49.897132,
+    "origin_lon": 10.888203,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 196,
+    "bike_id": "caa85483-4fc5-4194-bb28-a8cfcad2ed66",
+    "crm": 14691,
+    "origin_lat": 49.894687,
+    "origin_lon": 10.88484,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 197,
+    "bike_id": "fcdcbbc0-d62d-4d66-b499-87b518b59105",
+    "crm": 18682,
+    "origin_lat": 49.904694,
+    "origin_lon": 10.909711,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 198,
+    "bike_id": "2bc8ee14-a461-4b8f-aa30-503ca1b4d98f",
+    "crm": 15975,
+    "origin_lat": 49.893387,
+    "origin_lon": 10.888569,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 199,
+    "bike_id": "0ff9d173-5bfc-4e51-98cf-09fa27feb685",
+    "crm": 23606,
+    "origin_lat": 49.886629,
+    "origin_lon": 10.87574,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 200,
+    "bike_id": "a1118569-b0a2-4441-bd2e-caec3a5aa712",
+    "crm": 19387,
+    "origin_lat": 49.903,
+    "origin_lon": 10.895,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 201,
+    "bike_id": "09e1cbe2-a376-424c-823c-d2bf61f1ba03",
+    "crm": 14992,
+    "origin_lat": 49.8985,
+    "origin_lon": 10.9005,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 202,
+    "bike_id": "cca8ae61-1580-4d7c-90cd-e31db9c5bc25",
+    "crm": 16929,
+    "origin_lat": 49.897678,
+    "origin_lon": 10.888185,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 203,
+    "bike_id": "91ca184e-eb3d-4fcc-9c6a-5323b87c3b9a",
+    "crm": 14263,
+    "origin_lat": 49.903,
+    "origin_lon": 10.895,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 204,
+    "bike_id": "5fe19d18-9a20-49e9-95fc-4cf72eb5c080",
+    "crm": 19905,
+    "origin_lat": 49.898535,
+    "origin_lon": 10.898611,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 205,
+    "bike_id": "80f8e18f-9f29-43d5-a59d-cee1389f6aa7",
+    "crm": 21727,
+    "origin_lat": 49.901393,
+    "origin_lon": 10.902281,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 206,
+    "bike_id": "d11db771-8760-4fe5-a559-b02cca07b54d",
+    "crm": 14787,
+    "origin_lat": 49.898611,
+    "origin_lon": 10.896525,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 207,
+    "bike_id": "0a621d77-3636-4ade-8f3c-ec071071cc59",
+    "crm": 18833,
+    "origin_lat": 49.895797,
+    "origin_lon": 10.892794,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 208,
+    "bike_id": "e847ec9b-3c87-4130-9601-6369e3bba936",
+    "crm": 20814,
+    "origin_lat": 49.893034,
+    "origin_lon": 10.888743,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 209,
+    "bike_id": "ec46411e-7042-4190-a8c7-774076cf0725",
+    "crm": 11185,
+    "origin_lat": 49.8985,
+    "origin_lon": 10.9005,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 210,
+    "bike_id": "51ff1ce0-e93d-4bcb-8733-3a15564b1066",
+    "crm": 17068,
+    "origin_lat": 49.896579,
+    "origin_lon": 10.879601,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 211,
+    "bike_id": "b56d1bab-9788-4566-890e-6c1d37b79bc5",
+    "crm": 20877,
+    "origin_lat": 49.901466,
+    "origin_lon": 10.904967,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 212,
+    "bike_id": "e49f23c2-8ba2-490e-bb5f-8129a8ec457e",
+    "crm": 20751,
+    "origin_lat": 49.893639,
+    "origin_lon": 10.883212,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 213,
+    "bike_id": "b2b02ea5-a974-46f2-988f-c0321a48f3f5",
+    "crm": 18051,
+    "origin_lat": 49.904127,
+    "origin_lon": 10.909879,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 214,
+    "bike_id": "201bc4e7-52e5-4e7a-880e-218b14dd0c5e",
+    "crm": 16868,
+    "origin_lat": 49.904482,
+    "origin_lon": 10.900682,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 215,
+    "bike_id": "f2bec28a-e4de-4283-a371-272f51b566eb",
+    "crm": 11527,
+    "origin_lat": 49.897397,
+    "origin_lon": 10.891545,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 216,
+    "bike_id": "1748645b-16a1-4ecd-9519-009193ceaac6",
+    "crm": 17828,
+    "origin_lat": 49.901602,
+    "origin_lon": 10.896709,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 217,
+    "bike_id": "590503a5-9aa5-46ce-9cc0-b2827638275f",
+    "crm": 17105,
+    "origin_lat": 49.90032,
+    "origin_lon": 10.899983,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 218,
+    "bike_id": "d9a437cf-2117-49eb-9183-95f30d662a23",
+    "crm": 13493,
+    "origin_lat": 49.896889,
+    "origin_lon": 10.880213,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 219,
+    "bike_id": "29ccf933-b0a9-4873-b85c-0c8d5957cc92",
+    "crm": 18175,
+    "origin_lat": 49.896138,
+    "origin_lon": 10.879087,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 220,
+    "bike_id": "e424400f-bddc-4b1d-8d7a-44c7cf75d637",
+    "crm": 20071,
+    "origin_lat": 49.905298,
+    "origin_lon": 10.911831,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 221,
+    "bike_id": "d601e6d4-d119-4f7b-8cb9-a1647d036a5c",
+    "crm": 13970,
+    "origin_lat": 49.897615,
+    "origin_lon": 10.887354,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 222,
+    "bike_id": "c068f93e-9bd6-4e68-a3ad-627a47f18cdd",
+    "crm": 16119,
+    "origin_lat": 49.894364,
+    "origin_lon": 10.883038,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 223,
+    "bike_id": "7b50b100-b2ab-49d3-97bb-af824cef6492",
+    "crm": 17438,
+    "origin_lat": 49.90502,
+    "origin_lon": 10.902621,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 224,
+    "bike_id": "db4310a8-ed9a-4075-af5e-5a01e240b61e",
+    "crm": 15681,
+    "origin_lat": 49.889624,
+    "origin_lon": 10.881885,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 225,
+    "bike_id": "742561dd-44e1-4944-8203-31ee70540166",
+    "crm": 20279,
+    "origin_lat": 49.887654,
+    "origin_lon": 10.877276,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 226,
+    "bike_id": "4f0892c7-c90e-4348-9eee-ab9f9ec97c3e",
+    "crm": 14584,
+    "origin_lat": 49.898035,
+    "origin_lon": 10.883308,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 227,
+    "bike_id": "a4d9698d-fa25-44e6-ac8f-56b41f0af550",
+    "crm": 18882,
+    "origin_lat": 49.897161,
+    "origin_lon": 10.886102,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 228,
+    "bike_id": "38dcee4d-f55c-4053-a906-f9a368ecdf6f",
+    "crm": 15500,
+    "origin_lat": 49.899851,
+    "origin_lon": 10.898092,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 229,
+    "bike_id": "2e2186a4-bf6c-407c-a4cb-cbf60bb6ba51",
+    "crm": 16917,
+    "origin_lat": 49.893676,
+    "origin_lon": 10.880472,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 230,
+    "bike_id": "4d0c8981-e143-4f9b-a6d3-a76e0b8c8d9c",
+    "crm": 16369,
+    "origin_lat": 49.898354,
+    "origin_lon": 10.894285,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 231,
+    "bike_id": "9068d100-e0b7-4e7c-93c9-7a2dfc24b311",
+    "crm": 22148,
+    "origin_lat": 49.8985,
+    "origin_lon": 10.9005,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 232,
+    "bike_id": "38960318-9ed8-4d91-adad-5eb500781e7b",
+    "crm": 17866,
+    "origin_lat": 49.893584,
+    "origin_lon": 10.888881,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 233,
+    "bike_id": "e9346a72-0cdc-471c-859f-69d3ce607877",
+    "crm": 20758,
+    "origin_lat": 49.906826,
+    "origin_lon": 10.909602,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 234,
+    "bike_id": "2d1aaf60-9530-41e9-8a11-bf0777f4e9b9",
+    "crm": 20604,
+    "origin_lat": 49.8985,
+    "origin_lon": 10.9005,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 235,
+    "bike_id": "2d15bee7-bd6f-470d-9f30-03b9954d718d",
+    "crm": 14573,
+    "origin_lat": 49.8985,
+    "origin_lon": 10.9005,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 236,
+    "bike_id": "8259b636-9f68-4cab-93e4-16dc067fa411",
+    "crm": 19461,
+    "origin_lat": 49.897696,
+    "origin_lon": 10.885993,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 237,
+    "bike_id": "438174e7-4a4a-4309-88d1-39d67b287d4b",
+    "crm": 14964,
+    "origin_lat": 49.890678,
+    "origin_lon": 10.880709,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 238,
+    "bike_id": "5960dfbd-a67b-4de6-a72f-234f2bc1fc74",
+    "crm": 13793,
+    "origin_lat": 49.903,
+    "origin_lon": 10.895,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 239,
+    "bike_id": "cb7c0257-1de7-4913-9e65-8512c310621b",
+    "crm": 21677,
+    "origin_lat": 49.901117,
+    "origin_lon": 10.890562,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 240,
+    "bike_id": "0c7155e6-82a8-4707-9d71-0fa799fcb55d",
+    "crm": 21338,
+    "origin_lat": 49.893127,
+    "origin_lon": 10.887396,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  },
+  {
+    "track_id": 241,
+    "bike_id": "98edc733-36e4-41b8-aa59-a88243b21288",
+    "crm": 20170,
+    "origin_lat": 49.885,
+    "origin_lon": 10.873,
+    "timestamp": 1748791800,
+    "state": "ACTIVE"
+  }
+]
